@@ -45,12 +45,16 @@
 
 |Abbreviation|Title|Publication|Paper|Attribute|Link|
 |:---:|---|:---:|:---:|:---:|:---:|
+|**fMoW**|**Functional Map of the World**|CVPR2018|[fMoW](https://openaccess.thecvf.com/content_cvpr_2018/html/Christie_Functional_Map_of_CVPR_2018_paper.html)|**Vision**|[link](https://github.com/fMoW)|
+|**SEN12MS**|**SEN12MS -- A Curated Dataset of Georeferenced Multi-Spectral Sentinel-1/2 Imagery for Deep Learning and Data Fusion**|-|[SEN12MS](https://arxiv.org/abs/1906.07789)|**Vision**|**[link](https://arxiv.org/abs/1906.07789)**|
 |**BEN-MM**|**BigEarthNet-MM: A Large Scale Multi-Modal Multi-Label Benchmark Archive for Remote Sensing Image Classification and Retrieval**|GRSM2021|[BEN-MM](https://ieeexplore.ieee.org/abstract/document/9552024)|**Vision**|[link](https://ieeexplore.ieee.org/abstract/document/9552024)|
 |**SeCo**|**Seasonal Contrast: Unsupervised Pre-Training From Uncurated Remote Sensing Data**|ICCV2021|[SeCo](https://openaccess.thecvf.com/content/ICCV2021/html/Manas_Seasonal_Contrast_Unsupervised_Pre-Training_From_Uncurated_Remote_Sensing_Data_ICCV_2021_paper.html)|**Vision**|[link](https://github.com/ServiceNow/seasonal-contrast)|
+|**fMoW-S2**|**SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery**|NeurIPS2022|[fMoW-S2](https://proceedings.neurips.cc/paper_files/paper/2022/hash/01c561df365429f33fcd7a7faa44c985-Abstract-Conference.html)|**Vision**|[link](https://purl.stanford.edu/vg497cb6002)|
 |**SSL4EO-S12**|**SSL4EO-S12: A Large-Scale Multi-Modal, Multi-Temporal Dataset for Self-Supervised Learning in Earth Observation**|GRSM2023|[SSL4EO-S12](https://arxiv.org/abs/2211.07044)|**Vision**|[link](https://github.com/zhu-xlab/SSL4EO-S12)|
 |**SSL4EO-L**|**SSL4EO-L: Datasets and Foundation Models for Landsat Imagery**|Arxiv2023|[SSL4EO-L](https://arxiv.org/abs/2306.09424)|**Vision**|[link](https://github.com/microsoft/torchgeo)|
 |**SatlasPretrain**|**SatlasPretrain: A Large-Scale Dataset for Remote Sensing Image Understanding**|ICCV2023|[SatlasPretrain](https://arxiv.org/abs/2211.15660)|**Vision (Supervised)**|[link](https://github.com/allenai/satlas/blob/main/SatlasPretrain.md)|
 |**CACo**|**Change-Aware Sampling and Contrastive Learning for Satellite Images**|CVPR2023|[CACo](https://openaccess.thecvf.com/content/CVPR2023/html/Mall_Change-Aware_Sampling_and_Contrastive_Learning_for_Satellite_Images_CVPR_2023_paper.html)|**Vision**|**[Comming soon](https://github.com/utkarshmall13/CACo)**|
+
 
 
 
