@@ -32,6 +32,7 @@
 |**FG-MAE**|**Feature Guided Masked Autoencoder for Self-supervised Learning in Remote Sensing**|Arxiv2023|[FG-MAE](https://arxiv.org/abs/2310.18653)|[link](https://github.com/zhu-xlab/FGMAE)|
 |**Prithiv**|**Foundation Models for Generalist Geospatial Artificial Intelligence**|Arxiv2023|[Prithiv](https://arxiv.org/abs/2310.18660)|[link](https://huggingface.co/ibm-nasa-geospatial)|
 |**RingMo-lite**|**RingMo-lite: A Remote Sensing Multi-task Lightweight Network with CNN-Transformer Hybrid Framework**|Arxiv2023|[RingMo-lite](https://arxiv.org/abs/2309.09003)|null|
+|**-**|**A Self-Supervised Cross-Modal Remote Sensing Foundation Model with Multi-Domain Representation and Cross-Domain Fusion**|IGARSS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10282433)|null|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
@@ -76,5 +77,5 @@
 |**遥感大模型：进展与前瞻**|武汉大学学报 (信息科学版) 2023|[Paper](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20230341?viewType=HTML)|**Vision & Vision-Language**|
 |**Brain-Inspired Remote Sensing Foundation Models and Open Problems: A Comprehensive Survey**|JSTARS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10254282)|**Vision & Vision-Language**|
 |**Revisiting pre-trained remote sensing model benchmarks: resizing and normalization matters**|Arxiv2023|[Paper](https://arxiv.org/abs/2305.13456)|**Vision**|
-|**An Agenda for Multimodal Foundation Models for Earth Observation**|IGRASS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10282966)|**Vision**|
+|**An Agenda for Multimodal Foundation Models for Earth Observation**|IGARSS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10282966)|**Vision**|
 
