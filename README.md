@@ -69,4 +69,12 @@
 
 
 ## Survey Papers
+|Title|Publication|Paper|Attribute|
+|---|:---:|:---:|:---:|
+|**Self-Supervised Remote Sensing Feature Learning: Learning Paradigms, Challenges, and Future Works**|TGRS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10126079)|**Vision & Vision-Language**|
+|**Vision-Language Models in Remote Sensing: Current Progress and Future Trends**|Arxiv2023|[Paper](https://arxiv.org/abs/2305.05726)|**Vision-Language**|
+|**遥感大模型：进展与前瞻**|武汉大学学报 (信息科学版) 2023|[Paper](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20230341?viewType=HTML)|**Vision & Vision-Language**|
+|**Brain-Inspired Remote Sensing Foundation Models and Open Problems: A Comprehensive Survey**|JSTARS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10254282)|**Vision & Vision-Language**|
+|**Revisiting pre-trained remote sensing model benchmarks: resizing and normalization matters**|Arxiv2023|[Paper](https://arxiv.org/abs/2305.13456)|**Vision**|
+|**An Agenda for Multimodal Foundation Models for Earth Observation**|IGRASS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10282966)|**Vision**|
 
