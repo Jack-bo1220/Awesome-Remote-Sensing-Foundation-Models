@@ -37,6 +37,10 @@
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
 
+|Abbreviation|Title|Publication|Paper|Code & Weights|
+|:---:|---|:---:|:---:|:---:|
+|**DiffusionSat**|**DiffusionSat: A Generative Foundation Model for Satellite Imagery**|-|[DiffusionSat](https://openreview.net/pdf?id=I5webNFDgQ)|null|
+
 ## Pre-training Datasets
 
 ## Survey Papers
