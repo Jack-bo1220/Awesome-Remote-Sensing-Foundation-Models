@@ -35,6 +35,12 @@
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
+|Abbreviation|Title|Publication|Paper|Code & Weights|
+|:---:|---|:---:|:---:|:---:|
+|**RemoteCLIP**|**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**|Arxiv2023|[RemoteCLIP](https://arxiv.org/abs/2306.11029)|[link](https://github.com/ChenDelong1999/RemoteCLIP)|
+|**GeoChat**|**GeoChat: Grounded Large Vision-Language Model for Remote Sensing**|Arxiv2023|[GeoChat](https://arxiv.org/abs/2311.15826)|[link](https://github.com/mbzuai-oryx/GeoChat)|
+|**GRAFT**|**|**Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment**|ICLR2024|[GRAFT](https://openreview.net/pdf?id=w9tc699w3Z)|null|
+
 ## Remote Sensing <ins>Generative</ins> Foundation Models
 
 |Abbreviation|Title|Publication|Paper|Code & Weights|
