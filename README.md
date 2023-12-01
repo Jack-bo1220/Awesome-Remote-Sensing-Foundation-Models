@@ -43,10 +43,10 @@
 
 ## Pre-training Datasets
 
-|Abbreviation|Title|Publication|Paper|Link|
-|:---:|---|:---:|:---:|:---:|
-|**SSL4EO-S12**|**SSL4EO-S12: A Large-Scale Multi-Modal, Multi-Temporal Dataset for Self-Supervised Learning in Earth Observation**|GRSM2023|[SSL4EO-S12](https://arxiv.org/abs/2211.07044)|[link](https://github.com/zhu-xlab/SSL4EO-S12)|
-|**SSL4EO-L**|**SSL4EO-L: Datasets and Foundation Models for Landsat Imagery**|Arxiv2023|[SSL4EO-L](https://arxiv.org/abs/2306.09424)|[link](https://github.com/microsoft/torchgeo)|
+|Abbreviation|Title|Publication|Paper|Attribute|Link|
+|:---:|---|:---:|:---:|:---:|:---:|
+|**SSL4EO-S12**|**SSL4EO-S12: A Large-Scale Multi-Modal, Multi-Temporal Dataset for Self-Supervised Learning in Earth Observation**|GRSM2023|[SSL4EO-S12](https://arxiv.org/abs/2211.07044)|**Vision**|[link](https://github.com/zhu-xlab/SSL4EO-S12)|
+|**SSL4EO-L**|**SSL4EO-L: Datasets and Foundation Models for Landsat Imagery**|Arxiv2023|[SSL4EO-L](https://arxiv.org/abs/2306.09424)|**Vision**|[link](https://github.com/microsoft/torchgeo)|
 
 
 ## Survey Papers
