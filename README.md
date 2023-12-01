@@ -15,6 +15,7 @@
 |**BFM**|**A billion-scale foundation model for remote sensing images**|Arxiv2023|[BFM](https://arxiv.org/abs/2304.05215)|null|
 |**TOV**|**TOV: The original vision model for optical remote sensing image understanding via self-supervised learning**|JSTARS2023|[TOV](https://ieeexplore.ieee.org/abstract/document/10110958)|**[link](https://github.com/GeoX-Lab/G-RSIM/tree/main/TOV_v1)**|
 |**CMID**|**CMID: A Unified Self-Supervised Learning Framework for Remote Sensing Image Understanding**|TGRS2023|[CMID](https://ieeexplore.ieee.org/abstract/document/10105625)|[link](https://github.com/NJU-LHRS/official-CMID)|
+|**RingMo-Sense**|**RingMo-Sense: Remote Sensing Foundation Model for Spatiotemporal Prediction via Spatiotemporal Evolution Disentangling**|TGRS2023|[RingMo-Sense](https://ieeexplore.ieee.org/abstract/document/10254320)|null|
 |**CACo**|**Change-Aware Sampling and Contrastive Learning for Satellite Images**|CVPR2023|[CACo](https://openaccess.thecvf.com/content/CVPR2023/html/Mall_Change-Aware_Sampling_and_Contrastive_Learning_for_Satellite_Images_CVPR_2023_paper.html)|**[link](https://github.com/utkarshmall13/CACo)**|
 |**CSP**|**CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations**|ICML2023|[CSP](https://arxiv.org/abs/2305.01118)|**[link](https://gengchenmai.github.io/csp-website/)**|
 |**SatLas**|**SatlasPretrain: A Large-Scale Dataset for Remote Sensing Image Understanding**|ICCV2023|[SatLas](https://arxiv.org/abs/2211.15660)|[link](https://github.com/allenai/satlas)|
@@ -30,6 +31,7 @@
 |**XGeo**|**Multisensory Geospatial Models via Cross-Sensor Pretraining**|-|[XGeo](https://openreview.net/pdf?id=qWSk62REeK)|null|
 |**FG-MAE**|**Feature Guided Masked Autoencoder for Self-supervised Learning in Remote Sensing**|Arxiv2023|[FG-MAE](https://arxiv.org/abs/2310.18653)|[link](https://github.com/zhu-xlab/FGMAE)|
 |**Prithiv**|**Foundation Models for Generalist Geospatial Artificial Intelligence**|Arxiv2023|[Prithiv](https://arxiv.org/abs/2310.18660)|[link](https://huggingface.co/ibm-nasa-geospatial)|
+|**RingMo-lite**|**RingMo-lite: A Remote Sensing Multi-task Lightweight Network with CNN-Transformer Hybrid Framework**|Arxiv2023|[RingMo-lite](https://arxiv.org/abs/2309.09003)|null|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
