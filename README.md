@@ -3,7 +3,7 @@
 
 # <p align=center>`Awesome Remote Sensing Foundation Models`</p>
 
-:star2:**A collection of papers, datasets, code, and pre-trained weights of Remote Sensing Foundation Models (RSFMs).**
+:star2:**A collection of papers, datasets, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 :fire::fire::fire: Last Updated on 2023.12.02 :fire::fire::fire:
 
