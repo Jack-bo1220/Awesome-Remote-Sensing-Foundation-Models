@@ -55,7 +55,7 @@
 |:---:|---|:---:|:---:|:---:|
 |**DiffusionSat**|**DiffusionSat: A Generative Foundation Model for Satellite Imagery**|-|[DiffusionSat](https://openreview.net/pdf?id=I5webNFDgQ)|null|
 
-## Pre-training Datasets
+## (Large-scale) Pre-training Datasets
 
 |Abbreviation|Title|Publication|Paper|Attribute|Link|
 |:---:|---|:---:|:---:|:---:|:---:|
