@@ -82,6 +82,7 @@
 |**An Empirical Study of Remote Sensing Pretraining**|TGRS2022|[Paper](https://ieeexplore.ieee.org/abstract/document/9782149)|**Vision**|
 |**Self-Supervised Remote Sensing Feature Learning: Learning Paradigms, Challenges, and Future Works**|TGRS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10126079)|**Vision & Vision-Language**|
 |**Vision-Language Models in Remote Sensing: Current Progress and Future Trends**|Arxiv2023|[Paper](https://arxiv.org/abs/2305.05726)|**Vision-Language**|
+|**The Potential of Visual ChatGPT For Remote Sensing**|Arxiv2023|[Paper](https://arxiv.org/abs/2304.13009)|**Vision-Language**|
 |**遥感大模型：进展与前瞻**|武汉大学学报 (信息科学版) 2023|[Paper](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20230341?viewType=HTML)|**Vision & Vision-Language**|
 |**地理人工智能样本：模型、质量与服务**|武汉大学学报 (信息科学版) 2023|[Paper](http://ch.whu.edu.cn/article/id/5e67ed6a-aae5-4ec0-ad1b-f2aba89f4617)|**-**|
 |**Brain-Inspired Remote Sensing Foundation Models and Open Problems: A Comprehensive Survey**|JSTARS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10254282)|**Vision & Vision-Language**|
