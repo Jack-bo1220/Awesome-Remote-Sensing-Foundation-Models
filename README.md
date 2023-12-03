@@ -16,7 +16,7 @@
 |**SatMAE**|**SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery**|NeurIPS2022|[SatMAE](https://proceedings.neurips.cc/paper_files/paper/2022/hash/01c561df365429f33fcd7a7faa44c985-Abstract-Conference.html)|[link](https://github.com/sustainlab-group/SatMAE)|
 |**RingMo**|**RingMo: A remote sensing foundation model with masked image modeling**|TGRS2022|[RingMo](https://ieeexplore.ieee.org/abstract/document/9844015)|null|
 |**RVSA**|**Advancing plain vision transformer toward remote sensing foundation model**|TGRS2022|[RVSA](https://ieeexplore.ieee.org/abstract/document/9956816)|[link](https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA)|
-|**RSP**||**An Empirical Study of Remote Sensing Pretraining**|TGRS2022|[RSP](https://ieeexplore.ieee.org/abstract/document/9782149)|[link](https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA)|
+|**RSP**|**An Empirical Study of Remote Sensing Pretraining**|TGRS2022|[RSP](https://ieeexplore.ieee.org/abstract/document/9782149)|[link](https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA)|
 |**MATTER**|**Self-Supervised Material and Texture Representation Learning for Remote Sensing Tasks**|CVPR2022|[MATTER](https://openaccess.thecvf.com/content/CVPR2022/html/Akiva_Self-Supervised_Material_and_Texture_Representation_Learning_for_Remote_Sensing_Tasks_CVPR_2022_paper.html)|null|
 |**CSPT**|**Consecutive Pre-Training: A Knowledge Transfer Learning Strategy with Relevant Unlabeled Data for Remote Sensing Domain**|RS2022|[CSPT](https://www.mdpi.com/2072-4292/14/22/5675#)|[link](https://github.com/ZhAnGToNG1/transfer_learning_cspt)|
 |**BFM**|**A billion-scale foundation model for remote sensing images**|Arxiv2023|[BFM](https://arxiv.org/abs/2304.05215)|null|
