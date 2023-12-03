@@ -57,6 +57,15 @@
 |:---:|---|:---:|:---:|:---:|
 |**DiffusionSat**|**DiffusionSat: A Generative Foundation Model for Satellite Imagery**|-|[DiffusionSat](https://openreview.net/pdf?id=I5webNFDgQ)|null|
 
+## Remote Sensing <ins>Vision-Location</ins> Foundation Models
+
+|Abbreviation|Title|Publication|Paper|Code & Weights|
+|:---:|---|:---:|:---:|:---:|
+|**GeoCLIP**|**GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization**|NeurIPS2023|[GeoCLIP](https://arxiv.org/abs/2309.16020)|[link](https://vicentevivan.github.io/GeoCLIP/)|
+|**SatCLIP**|**SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery**|Arxiv2023|[SatCLIP](https://arxiv.org/abs/2311.17179)|[Comming soon](https://github.com/microsoft/satclip)|
+
+
+
 ## (Large-scale) Pre-training Datasets
 
 |Abbreviation|Title|Publication|Paper|Attribute|Link|
