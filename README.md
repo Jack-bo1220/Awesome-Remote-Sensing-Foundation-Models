@@ -102,5 +102,5 @@
 |**Brain-Inspired Remote Sensing Foundation Models and Open Problems: A Comprehensive Survey**|JSTARS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10254282)|**Vision & Vision-Language**|
 |**Revisiting pre-trained remote sensing model benchmarks: resizing and normalization matters**|Arxiv2023|[Paper](https://arxiv.org/abs/2305.13456)|**Vision**|
 |**An Agenda for Multimodal Foundation Models for Earth Observation**|IGARSS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10282966)|**Vision**|
-|**Transfer learning in environmental remote sensing**|RSE2024|[Paper](https://www.sciencedirect.com/science/article/pii/S0034425723004765)|**Vision**|
+|**Transfer learning in environmental remote sensing**|RSE2024|[Paper](https://www.sciencedirect.com/science/article/pii/S0034425723004765)|**Transfer learning**|
 
