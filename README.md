@@ -5,7 +5,7 @@
 
 :star2:**A collection of papers, datasets, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
-:fire::fire::fire: Last Updated on 2023.12.03 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2023.12.04 :fire::fire::fire:
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
 
@@ -57,6 +57,7 @@
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
 |**DiffusionSat**|**DiffusionSat: A Generative Foundation Model for Satellite Imagery**|-|[DiffusionSat](https://openreview.net/pdf?id=I5webNFDgQ)|null|
+|**-**|**Non-Visible Light Data Synthesis and Application: A Case Study for Synthetic Aperture Radar Imagery**|Arxiv2023|[Paper](https://arxiv.org/abs/2311.17486)|[link](https://github.com/doem97/gen_sar_plora)|
 
 ## Remote Sensing <ins>Vision-Location</ins> Foundation Models
 
@@ -101,4 +102,5 @@
 |**Brain-Inspired Remote Sensing Foundation Models and Open Problems: A Comprehensive Survey**|JSTARS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10254282)|**Vision & Vision-Language**|
 |**Revisiting pre-trained remote sensing model benchmarks: resizing and normalization matters**|Arxiv2023|[Paper](https://arxiv.org/abs/2305.13456)|**Vision**|
 |**An Agenda for Multimodal Foundation Models for Earth Observation**|IGARSS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10282966)|**Vision**|
+|**Transfer learning in environmental remote sensing**|RSE2024|[Paper](https://www.sciencedirect.com/science/article/pii/S0034425723004765)|**Vision**|
 
