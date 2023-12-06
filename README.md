@@ -41,7 +41,7 @@
 |**Prithiv**|**Foundation Models for Generalist Geospatial Artificial Intelligence**|Arxiv2023|[Prithiv](https://arxiv.org/abs/2310.18660)|[link](https://huggingface.co/ibm-nasa-geospatial)|
 |**RingMo-lite**|**RingMo-lite: A Remote Sensing Multi-task Lightweight Network with CNN-Transformer Hybrid Framework**|Arxiv2023|[RingMo-lite](https://arxiv.org/abs/2309.09003)|null|
 |**-**|**A Self-Supervised Cross-Modal Remote Sensing Foundation Model with Multi-Domain Representation and Cross-Domain Fusion**|IGARSS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10282433)|null|
-|**USat**|**USat: A Unified Self-Supervised Encoder for Multi-Sensor Satellite Imagery**|Arxiv2023|[Paper](https://arxiv.org/abs/2312.02199)|[link](https://github.com/stanfordmlgroup/USat)|
+|**USat**|**USat: A Unified Self-Supervised Encoder for Multi-Sensor Satellite Imagery**|Arxiv2023|[USat](https://arxiv.org/abs/2312.02199)|[link](https://github.com/stanfordmlgroup/USat)|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
