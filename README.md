@@ -25,7 +25,6 @@
 |**CMID**|**CMID: A Unified Self-Supervised Learning Framework for Remote Sensing Image Understanding**|TGRS2023|[CMID](https://ieeexplore.ieee.org/abstract/document/10105625)|[link](https://github.com/NJU-LHRS/official-CMID)|
 |**RingMo-Sense**|**RingMo-Sense: Remote Sensing Foundation Model for Spatiotemporal Prediction via Spatiotemporal Evolution Disentangling**|TGRS2023|[RingMo-Sense](https://ieeexplore.ieee.org/abstract/document/10254320)|null|
 |**CACo**|**Change-Aware Sampling and Contrastive Learning for Satellite Images**|CVPR2023|[CACo](https://openaccess.thecvf.com/content/CVPR2023/html/Mall_Change-Aware_Sampling_and_Contrastive_Learning_for_Satellite_Images_CVPR_2023_paper.html)|[link](https://github.com/utkarshmall13/CACo)|
-|**CSP**|**CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations**|ICML2023|[CSP](https://arxiv.org/abs/2305.01118)|[link](https://gengchenmai.github.io/csp-website/)|
 |**SatLas**|**SatlasPretrain: A Large-Scale Dataset for Remote Sensing Image Understanding**|ICCV2023|[SatLas](https://arxiv.org/abs/2211.15660)|[link](https://github.com/allenai/satlas)|
 |**GFM**|**Towards Geospatial Foundation Models via Continual Pretraining**|ICCV2023|[GFM](https://arxiv.org/abs/2302.04476)|[link](https://github.com/mmendiet/GFM)|
 |**Scale-MAE**|**Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning**|ICCV2023|[Scale-MAE](https://arxiv.org/abs/2212.14532)|[link](https://github.com/bair-climate-initiative/scale-mae)|
@@ -64,6 +63,7 @@
 
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
+|**CSP**|**CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations**|ICML2023|[CSP](https://arxiv.org/abs/2305.01118)|[link](https://gengchenmai.github.io/csp-website/)|
 |**GeoCLIP**|**GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization**|NeurIPS2023|[GeoCLIP](https://arxiv.org/abs/2309.16020)|[link](https://vicentevivan.github.io/GeoCLIP/)|
 |**SatCLIP**|**SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery**|Arxiv2023|[SatCLIP](https://arxiv.org/abs/2311.17179)|[Comming soon](https://github.com/microsoft/satclip)|
 
