@@ -62,7 +62,6 @@
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
 |**DiffusionSat**|**DiffusionSat: A Generative Foundation Model for Satellite Imagery**|Arxiv2023|[DiffusionSat](https://arxiv.org/abs/2312.03606)|null|
-|**-**|**Non-Visible Light Data Synthesis and Application: A Case Study for Synthetic Aperture Radar Imagery**|Arxiv2023|[Paper](https://arxiv.org/abs/2311.17486)|[link](https://github.com/doem97/gen_sar_plora)|
 |**Seg2Sat**|**Seg2Sat - Segmentation to aerial view using pretrained diffuser models**|Github|null|[link](https://github.com/RubenGres/Seg2Sat)|
 |**-**|**Generate Your Own Scotland: Satellite Image Generation Conditioned on Maps**|NeurIPSW2023|[Paper](https://arxiv.org/abs/2308.16648)|[link](https://github.com/toastyfrosty/map-sat)|
 
