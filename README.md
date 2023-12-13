@@ -11,9 +11,12 @@
 
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
+|**GeoKR**|**Geographical Knowledge-Driven Representation Learning for Remote Sensing Images**|TGRS2021|[GeoKR](https://ieeexplore.ieee.org/abstract/document/9559903)|[link](https://github.com/flyakon/Geographical-Knowledge-driven-Representaion-Learning)|
+|**-**|**Self-Supervised Learning of Remote Sensing Scene Representations Using Contrastive Multiview Coding**|CVPRW2021|[Paper](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Stojnic_Self-Supervised_Learning_of_Remote_Sensing_Scene_Representations_Using_Contrastive_Multiview_CVPRW_2021_paper.html)|[link](https://github.com/vladan-stojnic/CMC-RSSR)|
 |**GASSL**|**Geography-Aware Self-Supervised Learning**|ICCV2021|[GASSL](https://openaccess.thecvf.com/content/ICCV2021/html/Ayush_Geography-Aware_Self-Supervised_Learning_ICCV_2021_paper.html)|[link](https://github.com/sustainlab-group/geography-aware-ssl)|
 |**SeCo**|**Seasonal Contrast: Unsupervised Pre-Training From Uncurated Remote Sensing Data**|ICCV2021|[SeCo](https://openaccess.thecvf.com/content/ICCV2021/html/Manas_Seasonal_Contrast_Unsupervised_Pre-Training_From_Uncurated_Remote_Sensing_Data_ICCV_2021_paper.html)|[link](https://github.com/ServiceNow/seasonal-contrast)|
 |**SatMAE**|**SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery**|NeurIPS2022|[SatMAE](https://proceedings.neurips.cc/paper_files/paper/2022/hash/01c561df365429f33fcd7a7faa44c985-Abstract-Conference.html)|[link](https://github.com/sustainlab-group/SatMAE)|
+|**GeCo**|**Geographical Supervision Correction for Remote Sensing Representation Learning**|TGRS2022|[GeCo](https://ieeexplore.ieee.org/abstract/document/9869651)|null|
 |**RingMo**|**RingMo: A remote sensing foundation model with masked image modeling**|TGRS2022|[RingMo](https://ieeexplore.ieee.org/abstract/document/9844015)|null|
 |**RVSA**|**Advancing plain vision transformer toward remote sensing foundation model**|TGRS2022|[RVSA](https://ieeexplore.ieee.org/abstract/document/9956816)|[link](https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA)|
 |**RSP**|**An Empirical Study of Remote Sensing Pretraining**|TGRS2022|[RSP](https://ieeexplore.ieee.org/abstract/document/9782149)|[link](https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA)|
