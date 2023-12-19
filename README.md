@@ -6,7 +6,7 @@
 
 :star2:**A collection of papers, datasets, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
-:fire::fire::fire: Last Updated on 2023.12.15 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2023.12.19 :fire::fire::fire:
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
 
@@ -47,6 +47,7 @@
 |**RingMo-lite**|**RingMo-lite: A Remote Sensing Multi-task Lightweight Network with CNN-Transformer Hybrid Framework**|Arxiv2023|[RingMo-lite](https://arxiv.org/abs/2309.09003)|null|
 |**-**|**A Self-Supervised Cross-Modal Remote Sensing Foundation Model with Multi-Domain Representation and Cross-Domain Fusion**|IGARSS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10282433)|null|
 |**USat**|**USat: A Unified Self-Supervised Encoder for Multi-Sensor Satellite Imagery**|Arxiv2023|[USat](https://arxiv.org/abs/2312.02199)|[link](https://github.com/stanfordmlgroup/USat)|
+|**SkySense**|**SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery**|Arxiv2023|[SkySense](https://arxiv.org/abs/2312.10115)|Comming soon|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
