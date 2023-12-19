@@ -8,6 +8,9 @@
 
 :fire::fire::fire: Last Updated on 2023.12.19 :fire::fire::fire:
 
+:new: [2023-12-19] *Our paper on multi-modal remote sensing foundation model is online, following [SkySense](https://arxiv.org/abs/2312.10115).*
+
+
 ## Remote Sensing <ins>Vision</ins> Foundation Models
 
 |Abbreviation|Title|Publication|Paper|Code & Weights|
@@ -120,3 +123,19 @@
 |**Transfer learning in environmental remote sensing**|RSE2024|[Paper](https://www.sciencedirect.com/science/article/pii/S0034425723004765)|**Transfer learning**|
 |**遥感基础模型发展综述与未来设想**|遥感学报2023|[Paper](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20233313/)|**-**|
 
+
+
+## Cite
+
+If you find this repository useful, please consider giving a star :star: and citation:
+
+```
+@misc{guo2023skysense,
+      title={SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery}, 
+      author={Xin Guo and Jiangwei Lao and Bo Dang and Yingying Zhang and Lei Yu and Lixiang Ru and Liheng Zhong and Ziyuan Huang and Kang Wu and Dingxiang Hu and Huimei He and Jian Wang and Jingdong Chen and Ming Yang and Yongjun Zhang and Yansheng Li},
+      year={2023},
+      eprint={2312.10115},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
