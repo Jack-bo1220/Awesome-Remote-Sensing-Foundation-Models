@@ -8,7 +8,7 @@
 
 :fire::fire::fire: Last Updated on 2023.12.19 :fire::fire::fire:
 
-:new: [2023-12-19] *Our paper on multi-modal remote sensing foundation model is online, following [SkySense](https://arxiv.org/abs/2312.10115).*
+:new: [2023-12-19] *Our paper on multi-modal remote sensing foundation model ([SkySense](https://arxiv.org/abs/2312.10115)) has been published online!*
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
