@@ -6,7 +6,7 @@
 
 :star2:**A collection of papers, datasets, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
-:fire::fire::fire: Last Updated on 2023.12.20 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2023.12.22 :fire::fire::fire:
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -103,7 +103,7 @@
 |**RS5M**|**RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model**|Arxiv2023|[RS5M](https://arxiv.org/abs/2306.11300)|**Vision-Language**|[link](https://github.com/om-ai-lab/RS5M)|
 |**GEO-Bench**|**GEO-Bench: Toward Foundation Models for Earth Monitoring**|Arxiv2023|[GEO-Bench](https://arxiv.org/abs/2306.03831)|**Vision (Evaluation)**|[link](https://github.com/ServiceNow/geo-bench)|
 |**RSICap & RSIEval**|**RSGPT: A Remote Sensing Vision Language Model and Benchmark**|Arxiv2023|[RSGPT](https://arxiv.org/abs/2307.15266)|**Vision-Language**|[Comming soon](https://github.com/Lavender105/RSGPT)|
-
+|**SkyScript**|**SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing**|AAAI2024|[SkyScript](https://arxiv.org/abs/2312.12856)|**Vision-Language**|[Comming soon](https://github.com/wangzhecheng/SkyScript)|
 
 
 
