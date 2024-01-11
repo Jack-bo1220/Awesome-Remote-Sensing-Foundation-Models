@@ -17,6 +17,7 @@
 |**-**|**Self-Supervised Learning of Remote Sensing Scene Representations Using Contrastive Multiview Coding**|CVPRW2021|[Paper](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Stojnic_Self-Supervised_Learning_of_Remote_Sensing_Scene_Representations_Using_Contrastive_Multiview_CVPRW_2021_paper.html)|[link](https://github.com/vladan-stojnic/CMC-RSSR)|
 |**GASSL**|**Geography-Aware Self-Supervised Learning**|ICCV2021|[GASSL](https://openaccess.thecvf.com/content/ICCV2021/html/Ayush_Geography-Aware_Self-Supervised_Learning_ICCV_2021_paper.html)|[link](https://github.com/sustainlab-group/geography-aware-ssl)|
 |**SeCo**|**Seasonal Contrast: Unsupervised Pre-Training From Uncurated Remote Sensing Data**|ICCV2021|[SeCo](https://openaccess.thecvf.com/content/ICCV2021/html/Manas_Seasonal_Contrast_Unsupervised_Pre-Training_From_Uncurated_Remote_Sensing_Data_ICCV_2021_paper.html)|[link](https://github.com/ServiceNow/seasonal-contrast)|
+|**DINO-MM**|**Self-supervised Vision Transformers for Joint SAR-optical Representation Learning**|IGARSS2022|[DINO-MM](https://arxiv.org/abs/2204.05381)|[link](https://github.com/zhu-xlab/DINO-MM)|
 |**SatMAE**|**SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery**|NeurIPS2022|[SatMAE](https://proceedings.neurips.cc/paper_files/paper/2022/hash/01c561df365429f33fcd7a7faa44c985-Abstract-Conference.html)|[link](https://github.com/sustainlab-group/SatMAE)|
 |**RS-BYOL**|**Self-Supervised Learning for Invariant Representations From Multi-Spectral and SAR Images**|JSTARS2022|[RS-BYOL](https://ieeexplore.ieee.org/abstract/document/9880533)|null|
 |**GeCo**|**Geographical Supervision Correction for Remote Sensing Representation Learning**|TGRS2022|[GeCo](https://ieeexplore.ieee.org/abstract/document/9869651)|null|
@@ -44,7 +45,7 @@
 |**CtxMIM**|**CtxMIM: Context-Enhanced Masked Image Modeling for Remote Sensing Image Understanding**|Arxiv2023|[CtxMIM](https://arxiv.org/abs/2310.00022)|null|
 |**XGeo**|**Multisensory Geospatial Models via Cross-Sensor Pretraining**|-|[XGeo](https://openreview.net/pdf?id=qWSk62REeK)|null|
 |**FG-MAE**|**Feature Guided Masked Autoencoder for Self-supervised Learning in Remote Sensing**|Arxiv2023|[FG-MAE](https://arxiv.org/abs/2310.18653)|[link](https://github.com/zhu-xlab/FGMAE)|
-|**Prithiv**|**Foundation Models for Generalist Geospatial Artificial Intelligence**|Arxiv2023|[Prithiv](https://arxiv.org/abs/2310.18660)|[link](https://huggingface.co/ibm-nasa-geospatial)|
+|**Prithvi**|**Foundation Models for Generalist Geospatial Artificial Intelligence**|Arxiv2023|[Prithvi](https://arxiv.org/abs/2310.18660)|[link](https://huggingface.co/ibm-nasa-geospatial)|
 |**RingMo-lite**|**RingMo-lite: A Remote Sensing Multi-task Lightweight Network with CNN-Transformer Hybrid Framework**|Arxiv2023|[RingMo-lite](https://arxiv.org/abs/2309.09003)|null|
 |**-**|**A Self-Supervised Cross-Modal Remote Sensing Foundation Model with Multi-Domain Representation and Cross-Domain Fusion**|IGARSS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10282433)|null|
 |**EarthPT**|**EarthPT: a foundation model for Earth Observation**|Arxiv2023|[EarthPT](https://arxiv.org/abs/2309.07207)|null|
