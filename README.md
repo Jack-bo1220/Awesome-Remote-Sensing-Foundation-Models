@@ -39,7 +39,7 @@
 |**SpectralGPT**|**SpectralGPT: Spectral Foundation Model**|Arxiv2023|[SpectralGPT](https://arxiv.org/abs/2311.07113)|null|
 |**DINO-MC**|**DINO-MC: Self-supervised Contrastive Learning for Remote Sensing Imagery with Multi-sized Local Crops**|Arxiv2023|[DINO-MC](https://arxiv.org/abs/2303.06670)|[link](https://github.com/WennyXY/DINO-MC)|
 |**CROMA**|**CROMA: Remote Sensing Representations with Contrastive Radar-Optical Masked Autoencoders**|NeurIPS2023|[CROMA](https://arxiv.org/pdf/2311.00566.pdf)|[link](https://github.com/antofuller/CROMA)|
-|**Cross-Scale MAE**|**Cross-Scale MAE: A Tale of Multiscale Exploitation in Remote Sensing**|NeurIPS2023|[Cross-Scale MAE](https://openreview.net/pdf?id=5oEVdOd6TV)|null|
+|**Cross-Scale MAE**|**Cross-Scale MAE: A Tale of Multiscale Exploitation in Remote Sensing**|NeurIPS2023|[Cross-Scale MAE](https://openreview.net/pdf?id=5oEVdOd6TV)|[link](https://github.com/aicip/Cross-Scale-MAE)|
 |**DeCUR**|**DeCUR: decoupling common & unique representations for multimodal self-supervision**|Arxiv2023|[DeCUR](https://arxiv.org/abs/2309.05300)|[link](https://github.com/zhu-xlab/DeCUR)|
 |**Presto**|**Lightweight, Pre-trained Transformers for Remote Sensing Timeseries**|Arxiv2023|[Presto](https://arxiv.org/abs/2304.14065)|[link](https://github.com/nasaharvest/presto)|
 |**CtxMIM**|**CtxMIM: Context-Enhanced Masked Image Modeling for Remote Sensing Image Understanding**|Arxiv2023|[CtxMIM](https://arxiv.org/abs/2310.00022)|null|
