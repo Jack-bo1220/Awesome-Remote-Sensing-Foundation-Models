@@ -4,9 +4,9 @@
 
 # <p align=center>`Awesome Remote Sensing Foundation Models`</p>
 
-:star2:**A collection of papers, datasets, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
+:star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
-:fire::fire::fire: Last Updated on 2024.01.16 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.01.17 :fire::fire::fire:
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -88,6 +88,15 @@
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
 |**-**|**Self-supervised audiovisual representation learning for remote sensing data**|JAG2022|[Paper](https://www.sciencedirect.com/science/article/pii/S1569843222003181)|[link](https://github.com/khdlr/SoundingEarth)|
+
+## Benchmarks for RSFMs
+|Abbreviation|Title|Publication|Paper|Link|Downstream Tasks|
+|:---:|---|:---:|:---:|:---:|:---:|
+|**-**|**Revisiting pre-trained remote sensing model benchmarks: resizing and normalization matters**|Arxiv2023|[Paper](https://arxiv.org/abs/2305.13456)|[link](https://github.com/isaaccorley/resize-is-all-you-need)|Classification|
+|**GEO-Bench**|**GEO-Bench: Toward Foundation Models for Earth Monitoring**|Arxiv2023|[Paper](https://arxiv.org/abs/2306.03831)|[link](https://github.com/ServiceNow/geo-bench)|Classification & Segmentation|
+|**SkySense**|**SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery**|Arxiv2023|[SkySense](https://arxiv.org/abs/2312.10115)|Comming Soon|Classification & Segmentation & Detection & Change detection & Multi-Modal Segmentation: Time-insensitive LandCover Mapping & Multi-Modal Segmentation: Time-sensitive Crop Mapping & Multi-Modal Scene Classification|
+|**FoMo-Bench**|**FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models**|Arxiv2023|[FoMo-Bench](https://arxiv.org/abs/2312.10114)|Comming soon|Classification & Segmentation & Detection for forest monitoring|
+|**PhilEO**|**PhilEO Bench: Evaluating Geo-Spatial Foundation Models**|Arxiv2024|[Paper](https://arxiv.org/abs/2401.04464)|[link](https://github.com/91097luke/phileo-bench)|Segmentation & Regression estimation|
 
 
 ## (Large-scale) Pre-training Datasets
