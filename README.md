@@ -6,7 +6,7 @@
 
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
-:fire::fire::fire: Last Updated on 2024.02.05 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.02.21 :fire::fire::fire:
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -36,7 +36,6 @@
 |**SatLas**|**SatlasPretrain: A Large-Scale Dataset for Remote Sensing Image Understanding**|ICCV2023|[SatLas](https://arxiv.org/abs/2211.15660)|[link](https://github.com/allenai/satlas)|
 |**GFM**|**Towards Geospatial Foundation Models via Continual Pretraining**|ICCV2023|[GFM](https://arxiv.org/abs/2302.04476)|[link](https://github.com/mmendiet/GFM)|
 |**Scale-MAE**|**Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning**|ICCV2023|[Scale-MAE](https://arxiv.org/abs/2212.14532)|[link](https://github.com/bair-climate-initiative/scale-mae)|
-|**SpectralGPT**|**SpectralGPT: Spectral Foundation Model**|Arxiv2023|[SpectralGPT](https://arxiv.org/abs/2311.07113)|null|
 |**DINO-MC**|**DINO-MC: Self-supervised Contrastive Learning for Remote Sensing Imagery with Multi-sized Local Crops**|Arxiv2023|[DINO-MC](https://arxiv.org/abs/2303.06670)|[link](https://github.com/WennyXY/DINO-MC)|
 |**CROMA**|**CROMA: Remote Sensing Representations with Contrastive Radar-Optical Masked Autoencoders**|NeurIPS2023|[CROMA](https://arxiv.org/pdf/2311.00566.pdf)|[link](https://github.com/antofuller/CROMA)|
 |**Cross-Scale MAE**|**Cross-Scale MAE: A Tale of Multiscale Exploitation in Remote Sensing**|NeurIPS2023|[Cross-Scale MAE](https://openreview.net/pdf?id=5oEVdOd6TV)|[link](https://github.com/aicip/Cross-Scale-MAE)|
@@ -58,6 +57,7 @@
 |**SwiMDiff**|**SwiMDiff: Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image**|Arxiv2024|[SwiMDiff](https://arxiv.org/abs/2401.05093)|null|
 |**OFA-Net**|**One for All: Toward Unified Foundation Models for Earth Vision**|Arxiv2024|[OFA-Net](https://arxiv.org/abs/2401.07527)|null|
 |**SMLFR**|**Generative ConvNet Foundation Model With Sparse Modeling and Low-Frequency Reconstruction for Remote Sensing Image Interpretation**|TGRS2024|[SMLFR](https://ieeexplore.ieee.org/abstract/document/10378718)|[link](https://github.com/HIT-SIRS/SMLFR)|
+|**SpectralGPT**|**SpectralGPT: Spectral Foundation Model**|TPAMI2024|[SpectralGPT](https://arxiv.org/abs/2311.07113)|[link](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT)|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
@@ -125,6 +125,7 @@
 |**GEO-Bench**|**GEO-Bench: Toward Foundation Models for Earth Monitoring**|Arxiv2023|[GEO-Bench](https://arxiv.org/abs/2306.03831)|**Vision (Evaluation)**|[link](https://github.com/ServiceNow/geo-bench)|
 |**RSICap & RSIEval**|**RSGPT: A Remote Sensing Vision Language Model and Benchmark**|Arxiv2023|[RSGPT](https://arxiv.org/abs/2307.15266)|**Vision-Language**|[Comming soon](https://github.com/Lavender105/RSGPT)|
 |**SkyScript**|**SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing**|AAAI2024|[SkyScript](https://arxiv.org/abs/2312.12856)|**Vision-Language**|[Comming soon](https://github.com/wangzhecheng/SkyScript)|
+|**ChatEarthNet**|**ChatEarthNet: A Global-Scale, High-Quality Image-Text Dataset for Remote Sensing**|Arxiv2024|[ChatEarthNet](https://arxiv.org/abs/2402.11325)|**Vision-Language**|[Comming soon]|
 
 
 
