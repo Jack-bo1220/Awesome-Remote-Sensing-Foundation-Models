@@ -151,12 +151,12 @@
 If you find this repository useful, please consider giving a star :star: and citation:
 
 ```
-@misc{guo2023skysense,
+@InProceedings{guo2023skysense,
       title={SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery}, 
       author={Xin Guo and Jiangwei Lao and Bo Dang and Yingying Zhang and Lei Yu and Lixiang Ru and Liheng Zhong and Ziyuan Huang and Kang Wu and Dingxiang Hu and Huimei He and Jian Wang and Jingdong Chen and Ming Yang and Yongjun Zhang and Yansheng Li},
-      year={2023},
-      eprint={2312.10115},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+      month     = {},
+      year      = {2024},
+      pages     = {}
 }
 ```
