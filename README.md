@@ -127,7 +127,8 @@
 |**GEO-Bench**|**GEO-Bench: Toward Foundation Models for Earth Monitoring**|Arxiv2023|[GEO-Bench](https://arxiv.org/abs/2306.03831)|**Vision (Evaluation)**|[link](https://github.com/ServiceNow/geo-bench)|
 |**RSICap & RSIEval**|**RSGPT: A Remote Sensing Vision Language Model and Benchmark**|Arxiv2023|[RSGPT](https://arxiv.org/abs/2307.15266)|**Vision-Language**|[Comming soon](https://github.com/Lavender105/RSGPT)|
 |**Clay**|**Clay Foundation Model**|-|null|**Vision**|[link](https://clay-foundation.github.io/model/)|
-|**SkyScript**|**SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing**|AAAI2024|[SkyScript](https://arxiv.org/abs/2312.12856)|**Vision-Language**|[Comming soon](https://github.com/wangzhecheng/SkyScript)|
+|**SATIN**|**SATIN: A Multi-Task Metadataset for Classifying Satellite Imagery using Vision-Language Models**|ICCVW2023|[SATIN](https://arxiv.org/abs/2304.11619)|**Vision-Language**|[link](https://satinbenchmark.github.io/)|
+|**SkyScript**|**SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing**|AAAI2024|[SkyScript](https://arxiv.org/abs/2312.12856)|**Vision-Language**|[link](https://github.com/wangzhecheng/SkyScript)|
 |**ChatEarthNet**|**ChatEarthNet: A Global-Scale, High-Quality Image-Text Dataset for Remote Sensing**|Arxiv2024|[ChatEarthNet](https://arxiv.org/abs/2402.11325)|**Vision-Language**|[Comming soon]|
 
 
