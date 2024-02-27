@@ -6,7 +6,7 @@
 
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
-:fire::fire::fire: Last Updated on 2024.02.21 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.02.27 :fire::fire::fire:
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -52,12 +52,12 @@
 |**FoMo-Bench**|**FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models**|Arxiv2023|[FoMo-Bench](https://arxiv.org/abs/2312.10114)|Comming soon|
 |**AIEarth**|**Analytical Insight of Earth: A Cloud-Platform of Intelligent Computing for Geospatial Big Data**|Arxiv2023|[AIEarth](https://arxiv.org/abs/2312.16385)|[link](https://engine-aiearth.aliyun.com/#/)|
 |**-**|**Self-Supervised Learning for SAR ATR with a Knowledge-Guided Predictive Architecture**|Arxiv2023|[Paper](https://arxiv.org/abs/2311.15153v1)|null|
-|**SkySense**|**SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery**|Arxiv2023|[SkySense](https://arxiv.org/abs/2312.10115)|Comming soon|
 |**GeRSP**|**Generic Knowledge Boosted Pre-training For Remote Sensing Images**|Arxiv2024|[GeRSP](https://arxiv.org/abs/2401.04614)|[GeRSP](https://github.com/floatingstarZ/GeRSP)|
 |**SwiMDiff**|**SwiMDiff: Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image**|Arxiv2024|[SwiMDiff](https://arxiv.org/abs/2401.05093)|null|
 |**OFA-Net**|**One for All: Toward Unified Foundation Models for Earth Vision**|Arxiv2024|[OFA-Net](https://arxiv.org/abs/2401.07527)|null|
 |**SMLFR**|**Generative ConvNet Foundation Model With Sparse Modeling and Low-Frequency Reconstruction for Remote Sensing Image Interpretation**|TGRS2024|[SMLFR](https://ieeexplore.ieee.org/abstract/document/10378718)|[link](https://github.com/HIT-SIRS/SMLFR)|
 |**SpectralGPT**|**SpectralGPT: Spectral Foundation Model**|TPAMI2024|[SpectralGPT](https://arxiv.org/abs/2311.07113)|[link](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT)|
+|**SkySense**|**SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery**|CVPR2024|[SkySense](https://arxiv.org/abs/2312.10115)|Comming soon|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
