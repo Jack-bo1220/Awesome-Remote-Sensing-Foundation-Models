@@ -6,7 +6,7 @@
 
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
-:fire::fire::fire: Last Updated on 2024.02.28 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.02.29 :fire::fire::fire:
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -105,7 +105,7 @@
 |**FoMo-Bench**|**FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models**|Arxiv2023|[FoMo-Bench](https://arxiv.org/abs/2312.10114)|Comming soon|Classification & Segmentation & Detection for forest monitoring|
 |**PhilEO**|**PhilEO Bench: Evaluating Geo-Spatial Foundation Models**|Arxiv2024|[Paper](https://arxiv.org/abs/2401.04464)|[link](https://github.com/91097luke/phileo-bench)|Segmentation & Regression estimation|
 |**SkySense**|**SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery**|CVPR2024|[SkySense](https://arxiv.org/abs/2312.10115)|Comming Soon|Classification & Segmentation & Detection & Change detection & Multi-Modal Segmentation: Time-insensitive LandCover Mapping & Multi-Modal Segmentation: Time-sensitive Crop Mapping & Multi-Modal Scene Classification|
-|**VLEO-Bench**|**Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data**|arXiv2024|[VLEO-bench]([https://arxiv.org/abs/2312.10115](https://arxiv.org/abs/2401.17600))|[link](https://vleo.danielz.ch/)| Location Recognition & Captioning & Scene Classification & Counting & Detection & Change detection|
+|**VLEO-Bench**|**Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data**|Arxiv2024|[VLEO-bench](https://arxiv.org/abs/2401.17600)|[link](https://vleo.danielz.ch/)| Location Recognition & Captioning & Scene Classification & Counting & Detection & Change detection|
 
 
 ## (Large-scale) Pre-training Datasets
