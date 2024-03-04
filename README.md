@@ -6,7 +6,7 @@
 
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
-:fire::fire::fire: Last Updated on 2024.02.29 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.03.04 :fire::fire::fire:
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -73,6 +73,7 @@
 |**SkyEyeGPT**|**SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2401.09712)|[link](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|
 |**EarthGPT**|**EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain**|Arxiv2024|[Paper](https://arxiv.org/abs/2401.16822)|null|
 |**GeoChat**|**GeoChat: Grounded Large Vision-Language Model for Remote Sensing**|CVPR2024|[GeoChat](https://arxiv.org/abs/2311.15826)|[link](https://github.com/mbzuai-oryx/GeoChat)|
+|**LHRS-Bot**|**LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
 
