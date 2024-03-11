@@ -60,6 +60,7 @@
 |**SMLFR**|**Generative ConvNet Foundation Model With Sparse Modeling and Low-Frequency Reconstruction for Remote Sensing Image Interpretation**|TGRS2024|[SMLFR](https://ieeexplore.ieee.org/abstract/document/10378718)|[link](https://github.com/HIT-SIRS/SMLFR)|
 |**SpectralGPT**|**SpectralGPT: Spectral Foundation Model**|TPAMI2024|[SpectralGPT](https://arxiv.org/abs/2311.07113)|[link](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT)|
 |**SkySense**|**SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery**|CVPR2024|[SkySense](https://arxiv.org/abs/2312.10115)|Comming soon|
+|**SatMAE++**|**Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery**|CVPR2024|[SatMAE++](https://arxiv.org/abs/2403.05419)|Comming soon|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
