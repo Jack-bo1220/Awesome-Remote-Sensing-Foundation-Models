@@ -11,7 +11,7 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.03.20 :fire::fire::fire:
 
-- **2024.3.20**: Add **Task-specific Foundation Models**.
+- **2024.3.20**: Add **Remote Sensing <ins>Task-specific</ins> Foundation Models**.
 - **2024.3.20**: Update Hydro, S2MAE, SatMAE++, SkyCLIP, CRS-Diff.
 
 
@@ -108,6 +108,22 @@
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
 |**-**|**Self-supervised audiovisual representation learning for remote sensing data**|JAG2022|[Paper](https://www.sciencedirect.com/science/article/pii/S1569843222003181)|[link](https://github.com/khdlr/SoundingEarth)|
+
+
+## Remote Sensing <ins>Task-specific</ins> Foundation Models
+
+|Abbreviation|Title|Publication|Paper|Code & Weights|Task|
+|:---:|---|:---:|:---:|:---:|:---:|
+|**SS-MAE**|**SS-MAE: Spatial-Spectral Masked Auto-Encoder for Mulit-Source Remote Sensing Image Classification**|TGRS2023|[Paper](https://ieeexplore.ieee.org/document/10314566/)|[link](https://github.com/summitgao/SS-MAE?tab=readme-ov-file)|Image Classification|
+|**TTP**|**Time Travelling Pixels: Bitemporal Features Integration with Foundation Model for Remote Sensing Image Change Detection**|Arxiv2023|[Paper](https://arxiv.org/abs/2312.16202)|[link](https://github.com/KyanChen/TTP)|Change Detection|
+|**BAN**|**A New Learning Paradigm for Foundation Model-based Remote Sensing Change Detection**|TGRS2024|[Paper](https://arxiv.org/abs/2312.01163)|[link](https://github.com/likyoo/BAN)|Change Detection|
+|**-**|**Change Detection Between Optical Remote Sensing Imagery and Map Data via Segment Anything Model (SAM)**|Arxiv2024|[Paper](https://arxiv.org/abs/2401.09019)|null|Change Detection (Optical & OSM data)|
+|**AnyChange**|**Segment Any Change**|Arxiv2024|[Paper](https://arxiv.org/abs/2402.01188)|null|Zero-shot Change Detection|
+|**RS-CapRet**|**Large Language Models for Captioning and Retrieving Remote Sensing Images**|Arxiv2024|[Paper](https://arxiv.org/abs/2402.06475)|null|Image Caption & Text-image Retrieval|
+|**-**|**Task Specific Pretraining with Noisy Labels for Remote sensing Image Segmentation**|Arxiv2024|[Paper](https://arxiv.org/abs/2402.16164)|null|Image Segmentation (Noisy labels)|
+|**RSBuilding**|**RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.07564)|[link](https://github.com/Meize0729/RSBuilding)|Building Extraction and Change Detection|
+
+
 
 ## Benchmarks for RSFMs
 |Abbreviation|Title|Publication|Paper|Link|Downstream Tasks|
