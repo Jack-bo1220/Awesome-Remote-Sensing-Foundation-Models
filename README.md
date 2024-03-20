@@ -6,7 +6,13 @@
 
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
+
+
+## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.03.20 :fire::fire::fire:
+
+- **2024.3.20**: Add **Task-specific Foundation Models**.
+- **2024.3.20**: Update Hydro, S2MAE, SatMAE++, SkyCLIP, CRS-Diff.
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
