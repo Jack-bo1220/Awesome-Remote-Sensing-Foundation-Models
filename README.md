@@ -6,7 +6,7 @@
 
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
-:fire::fire::fire: Last Updated on 2024.03.04 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.03.20 :fire::fire::fire:
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -53,6 +53,7 @@
 |**AIEarth**|**Analytical Insight of Earth: A Cloud-Platform of Intelligent Computing for Geospatial Big Data**|Arxiv2023|[AIEarth](https://arxiv.org/abs/2312.16385)|[link](https://engine-aiearth.aliyun.com/#/)|
 |**-**|**Self-Supervised Learning for SAR ATR with a Knowledge-Guided Predictive Architecture**|Arxiv2023|[Paper](https://arxiv.org/abs/2311.15153v1)|null|
 |**Clay**|**Clay Foundation Model**|-|null|[link](https://clay-foundation.github.io/model/)|
+|**Hydro**|****Hydro--A Foundation Model for Water in Satellite Imagery****|-|null|[link](https://github.com/isaaccorley/hydro-foundation-model)|
 |**U-BARN**|**Self-Supervised Spatio-Temporal Representation Learning of Satellite Image Time Series**|JSTARS2024|[Paper](https://ieeexplore.ieee.org/document/10414422)|null|
 |**GeRSP**|**Generic Knowledge Boosted Pre-training For Remote Sensing Images**|Arxiv2024|[GeRSP](https://arxiv.org/abs/2401.04614)|[GeRSP](https://github.com/floatingstarZ/GeRSP)|
 |**SwiMDiff**|**SwiMDiff: Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image**|Arxiv2024|[SwiMDiff](https://arxiv.org/abs/2401.05093)|null|
@@ -82,9 +83,10 @@
 
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
-|**DiffusionSat**|**DiffusionSat: A Generative Foundation Model for Satellite Imagery**|Arxiv2023|[DiffusionSat](https://arxiv.org/abs/2312.03606)|null|
 |**Seg2Sat**|**Seg2Sat - Segmentation to aerial view using pretrained diffuser models**|Github|null|[link](https://github.com/RubenGres/Seg2Sat)|
 |**-**|**Generate Your Own Scotland: Satellite Image Generation Conditioned on Maps**|NeurIPSW2023|[Paper](https://arxiv.org/abs/2308.16648)|[link](https://github.com/toastyfrosty/map-sat)|
+|**DiffusionSat**|**DiffusionSat: A Generative Foundation Model for Satellite Imagery**|ICLR2024|[DiffusionSat](https://arxiv.org/abs/2312.03606)|[link](https://github.com/samar-khanna/DiffusionSat)|
+|**CRS-Diff**|**CRS-Diff: Controllable Generative Remote Sensing Foundation Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.11614)|null|
 
 
 ## Remote Sensing <ins>Vision-Location</ins> Foundation Models
