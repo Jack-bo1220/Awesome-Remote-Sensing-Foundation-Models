@@ -9,8 +9,9 @@
 
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.03.20 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.03.21 :fire::fire::fire:
 
+- **2024.3.21**: Update MTP.
 - **2024.3.20**: Add **Remote Sensing <ins>Task-specific</ins> Foundation Models**.
 - **2024.3.20**: Update Hydro, S2MAE, SatMAE++, SkyCLIP, CRS-Diff.
 
@@ -69,6 +70,7 @@
 |**S2MAE**|**S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data**|CVPR2024|[S2MAE]()|null|
 |**SatMAE++**|**Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery**|CVPR2024|[SatMAE++](https://arxiv.org/abs/2403.05419)|[link](https://github.com/techmn/satmae_pp)|
 |**SkySense**|**SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery**|CVPR2024|[SkySense](https://arxiv.org/abs/2312.10115)|Comming soon|
+|**MTP**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Arxiv2024|[MTP](https://arxiv.org/abs/2403.13430)|[link](https://github.com/ViTAE-Transformer/MTP)|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
