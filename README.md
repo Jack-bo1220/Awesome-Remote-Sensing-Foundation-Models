@@ -128,6 +128,7 @@
 |**RS-CapRet**|**Large Language Models for Captioning and Retrieving Remote Sensing Images**|Arxiv2024|[Paper](https://arxiv.org/abs/2402.06475)|null|Image Caption & Text-image Retrieval|
 |**-**|**Task Specific Pretraining with Noisy Labels for Remote sensing Image Segmentation**|Arxiv2024|[Paper](https://arxiv.org/abs/2402.16164)|null|Image Segmentation (Noisy labels)|
 |**RSBuilding**|**RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.07564)|[link](https://github.com/Meize0729/RSBuilding)|Building Extraction and Change Detection|
+|**SAM-Road**|**Segment Anything Model for Road Network Graph Extraction**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.16051)|[link](https://github.com/htcr/sam_road)|Road Extraction|
 
 
 
