@@ -11,7 +11,7 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.03.27 :fire::fire::fire:
 
-- **2024.3.27**: Update **Remote Sensing <ins>Task-specific</ins> Foundation Models**.
+- **2024.3.27**: Update **Remote Sensing <ins>Task-specific</ins> Foundation Models** and LuoJiaHOG.
 - **2024.3.25**: Update DOFA.
 - **2024.3.21**: Update MTP.
 - **2024.3.20**: Add **Remote Sensing <ins>Task-specific</ins> Foundation Models**.
@@ -165,7 +165,7 @@
 |**SATIN**|**SATIN: A Multi-Task Metadataset for Classifying Satellite Imagery using Vision-Language Models**|ICCVW2023|[SATIN](https://arxiv.org/abs/2304.11619)|**Vision-Language**|[link](https://satinbenchmark.github.io/)|
 |**SkyScript**|**SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing**|AAAI2024|[SkyScript](https://arxiv.org/abs/2312.12856)|**Vision-Language**|[link](https://github.com/wangzhecheng/SkyScript)|
 |**ChatEarthNet**|**ChatEarthNet: A Global-Scale, High-Quality Image-Text Dataset for Remote Sensing**|Arxiv2024|[ChatEarthNet](https://arxiv.org/abs/2402.11325)|**Vision-Language**|[Comming soon]|
-
+|**LuoJiaHOG**|**LuoJiaHOG: A Hierarchy Oriented Geo-aware Image Caption Dataset for Remote Sensing Image-Text Retrieval**|Arxiv2024|[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|**Vision-Language**|null|
 
 
 ## Survey Papers
