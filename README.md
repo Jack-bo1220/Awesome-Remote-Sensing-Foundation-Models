@@ -9,12 +9,12 @@
 
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.03.25 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.03.27 :fire::fire::fire:
 
+- **2024.3.27**: Update **Remote Sensing <ins>Task-specific</ins> Foundation Models**.
 - **2024.3.25**: Update DOFA.
 - **2024.3.21**: Update MTP.
 - **2024.3.20**: Add **Remote Sensing <ins>Task-specific</ins> Foundation Models**.
-- **2024.3.20**: Update Hydro, S2MAE, SatMAE++, SkyCLIP, CRS-Diff.
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -120,6 +120,8 @@
 |:---:|---|:---:|:---:|:---:|:---:|
 |**SS-MAE**|**SS-MAE: Spatial-Spectral Masked Auto-Encoder for Mulit-Source Remote Sensing Image Classification**|TGRS2023|[Paper](https://ieeexplore.ieee.org/document/10314566/)|[link](https://github.com/summitgao/SS-MAE?tab=readme-ov-file)|Image Classification|
 |**TTP**|**Time Travelling Pixels: Bitemporal Features Integration with Foundation Model for Remote Sensing Image Change Detection**|Arxiv2023|[Paper](https://arxiv.org/abs/2312.16202)|[link](https://github.com/KyanChen/TTP)|Change Detection|
+|**CSMAE**|**Exploring Masked Autoencoders for Sensor-Agnostic Image Retrieval in Remote Sensing**|Arxiv2024|[Paper](https://arxiv.org/abs/2401.07782)|[link](https://github.com/jakhac/CSMAE)|Image Retrieval|
+|**RSPrompter**|**RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model**|TGRS2024|[Paper](https://arxiv.org/abs/2306.16269)|[link](https://github.com/KyanChen/RSPrompter)|Instance Segmentation|
 |**BAN**|**A New Learning Paradigm for Foundation Model-based Remote Sensing Change Detection**|TGRS2024|[Paper](https://arxiv.org/abs/2312.01163)|[link](https://github.com/likyoo/BAN)|Change Detection|
 |**-**|**Change Detection Between Optical Remote Sensing Imagery and Map Data via Segment Anything Model (SAM)**|Arxiv2024|[Paper](https://arxiv.org/abs/2401.09019)|null|Change Detection (Optical & OSM data)|
 |**AnyChange**|**Segment Any Change**|Arxiv2024|[Paper](https://arxiv.org/abs/2402.01188)|null|Zero-shot Change Detection|
