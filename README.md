@@ -9,12 +9,12 @@
 
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.03.27 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.04.01 :fire::fire::fire:
 
+- **2024.4.01**: Update PIS and H2RSVLM.
 - **2024.3.27**: Update **Remote Sensing <ins>Task-specific</ins> Foundation Models** and LuoJiaHOG.
 - **2024.3.25**: Update DOFA.
 - **2024.3.21**: Update MTP.
-- **2024.3.20**: Add **Remote Sensing <ins>Task-specific</ins> Foundation Models**.
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -73,6 +73,7 @@
 |**SkySense**|**SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery**|CVPR2024|[SkySense](https://arxiv.org/abs/2312.10115)|Comming soon|
 |**MTP**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Arxiv2024|[MTP](https://arxiv.org/abs/2403.13430)|[link](https://github.com/ViTAE-Transformer/MTP)|
 |**DOFA**|**Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities**|Arxiv2024|[DOFA](https://arxiv.org/abs/2403.15356)|[link](https://github.com/zhu-xlab/DOFA)|
+|**PIS**|**Pretrain A Remote Sensing Foundation Model by Promoting Intra-instance Similarity**|-|null|[link](https://github.com/ShawnAn-WHU/PIS)|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
@@ -88,6 +89,8 @@
 |**SkyCLIP**|**SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing**|AAAI2024|[SkyCLIP](https://arxiv.org/abs/2312.12856)|[link](https://github.com/wangzhecheng/SkyScript)|
 |**GeoChat**|**GeoChat: Grounded Large Vision-Language Model for Remote Sensing**|CVPR2024|[GeoChat](https://arxiv.org/abs/2311.15826)|[link](https://github.com/mbzuai-oryx/GeoChat)|
 |**LHRS-Bot**|**LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|
+|**H2RSVLM**|**H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/H2RSVLM)|
+
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
 
