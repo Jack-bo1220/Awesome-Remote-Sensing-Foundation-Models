@@ -9,12 +9,12 @@
 
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.04.01 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.04.03 :fire::fire::fire:
 
+- **2024.4.03**: Update SAMRS and msGF.
 - **2024.4.01**: Update PIS and H2RSVLM.
 - **2024.3.27**: Update **Remote Sensing <ins>Task-specific</ins> Foundation Models** and LuoJiaHOG.
 - **2024.3.25**: Update DOFA.
-- **2024.3.21**: Update MTP.
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -50,7 +50,6 @@
 |**DeCUR**|**DeCUR: decoupling common & unique representations for multimodal self-supervision**|Arxiv2023|[DeCUR](https://arxiv.org/abs/2309.05300)|[link](https://github.com/zhu-xlab/DeCUR)|
 |**Presto**|**Lightweight, Pre-trained Transformers for Remote Sensing Timeseries**|Arxiv2023|[Presto](https://arxiv.org/abs/2304.14065)|[link](https://github.com/nasaharvest/presto)|
 |**CtxMIM**|**CtxMIM: Context-Enhanced Masked Image Modeling for Remote Sensing Image Understanding**|Arxiv2023|[CtxMIM](https://arxiv.org/abs/2310.00022)|null|
-|**XGeo**|**Multisensory Geospatial Models via Cross-Sensor Pretraining**|-|[XGeo](https://openreview.net/pdf?id=qWSk62REeK)|null|
 |**FG-MAE**|**Feature Guided Masked Autoencoder for Self-supervised Learning in Remote Sensing**|Arxiv2023|[FG-MAE](https://arxiv.org/abs/2310.18653)|[link](https://github.com/zhu-xlab/FGMAE)|
 |**Prithvi**|**Foundation Models for Generalist Geospatial Artificial Intelligence**|Arxiv2023|[Prithvi](https://arxiv.org/abs/2310.18660)|[link](https://huggingface.co/ibm-nasa-geospatial)|
 |**RingMo-lite**|**RingMo-lite: A Remote Sensing Multi-task Lightweight Network with CNN-Transformer Hybrid Framework**|Arxiv2023|[RingMo-lite](https://arxiv.org/abs/2309.09003)|null|
@@ -70,6 +69,7 @@
 |**SpectralGPT**|**SpectralGPT: Spectral Foundation Model**|TPAMI2024|[SpectralGPT](https://arxiv.org/abs/2311.07113)|[link](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT)|
 |**S2MAE**|**S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data**|CVPR2024|[S2MAE]()|null|
 |**SatMAE++**|**Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery**|CVPR2024|[SatMAE++](https://arxiv.org/abs/2403.05419)|[link](https://github.com/techmn/satmae_pp)|
+|**msGFM**|**Bridging Remote Sensors with Multisensor Geospatial Foundation Models**|CVPR2024|[msGFM](https://arxiv.org/abs/2404.01260)|[link](https://github.com/boranhan/Geospatial_Foundation_Models)|
 |**SkySense**|**SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery**|CVPR2024|[SkySense](https://arxiv.org/abs/2312.10115)|Comming soon|
 |**MTP**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Arxiv2024|[MTP](https://arxiv.org/abs/2403.13430)|[link](https://github.com/ViTAE-Transformer/MTP)|
 |**DOFA**|**Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities**|Arxiv2024|[DOFA](https://arxiv.org/abs/2403.15356)|[link](https://github.com/zhu-xlab/DOFA)|
@@ -161,6 +161,7 @@
 |**SSL4EO-L**|**SSL4EO-L: Datasets and Foundation Models for Landsat Imagery**|Arxiv2023|[SSL4EO-L](https://arxiv.org/abs/2306.09424)|**Vision**|[link](https://github.com/microsoft/torchgeo)|
 |**SatlasPretrain**|**SatlasPretrain: A Large-Scale Dataset for Remote Sensing Image Understanding**|ICCV2023|[SatlasPretrain](https://arxiv.org/abs/2211.15660)|**Vision (Supervised)**|[link](https://github.com/allenai/satlas/blob/main/SatlasPretrain.md)|
 |**CACo**|**Change-Aware Sampling and Contrastive Learning for Satellite Images**|CVPR2023|[CACo](https://openaccess.thecvf.com/content/CVPR2023/html/Mall_Change-Aware_Sampling_and_Contrastive_Learning_for_Satellite_Images_CVPR_2023_paper.html)|**Vision**|[Comming soon](https://github.com/utkarshmall13/CACo)|
+|**SAMRS**|**SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model**|NeurIPS2023|[SAMRS](https://arxiv.org/abs/2305.02034)|**Vision**|[link](https://github.com/ViTAE-Transformer/SAMRS)|
 |**RSVG**|**RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data**|TGRS2023|[RSVG](https://ieeexplore.ieee.org/document/10056343)|**Vision-Language**|[link](https://github.com/ZhanYang-nwpu/RSVG-pytorch)|
 |**RS5M**|**RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model**|Arxiv2023|[RS5M](https://arxiv.org/abs/2306.11300)|**Vision-Language**|[link](https://github.com/om-ai-lab/RS5M)|
 |**GEO-Bench**|**GEO-Bench: Toward Foundation Models for Earth Monitoring**|Arxiv2023|[GEO-Bench](https://arxiv.org/abs/2306.03831)|**Vision (Evaluation)**|[link](https://github.com/ServiceNow/geo-bench)|
