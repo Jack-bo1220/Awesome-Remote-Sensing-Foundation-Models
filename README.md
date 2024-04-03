@@ -11,7 +11,7 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.04.03 :fire::fire::fire:
 
-- **2024.4.03**: Update SAMRS and msGF.
+- **2024.4.03**: Update SAMRS and msGFM.
 - **2024.4.01**: Update PIS and H2RSVLM.
 - **2024.3.27**: Update **Remote Sensing <ins>Task-specific</ins> Foundation Models** and LuoJiaHOG.
 - **2024.3.25**: Update DOFA.
