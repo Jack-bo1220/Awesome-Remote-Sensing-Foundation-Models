@@ -9,12 +9,12 @@
 
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.04.03 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.04.24 :fire::fire::fire:
 
+- **2024.4.24**: Update the link of ChatEarthNet and U-BARN. Update RS-LLaVA.
 - **2024.4.03**: Update SAMRS and msGFM.
 - **2024.4.01**: Update PIS and H2RSVLM.
 - **2024.3.27**: Update **Remote Sensing <ins>Task-specific</ins> Foundation Models** and LuoJiaHOG.
-- **2024.3.25**: Update DOFA.
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -61,7 +61,7 @@
 |**-**|**Self-Supervised Learning for SAR ATR with a Knowledge-Guided Predictive Architecture**|Arxiv2023|[Paper](https://arxiv.org/abs/2311.15153v1)|null|
 |**Clay**|**Clay Foundation Model**|-|null|[link](https://clay-foundation.github.io/model/)|
 |**Hydro**|****Hydro--A Foundation Model for Water in Satellite Imagery****|-|null|[link](https://github.com/isaaccorley/hydro-foundation-model)|
-|**U-BARN**|**Self-Supervised Spatio-Temporal Representation Learning of Satellite Image Time Series**|JSTARS2024|[Paper](https://ieeexplore.ieee.org/document/10414422)|null|
+|**U-BARN**|**Self-Supervised Spatio-Temporal Representation Learning of Satellite Image Time Series**|JSTARS2024|[Paper](https://ieeexplore.ieee.org/document/10414422)|[link](https://src.koda.cnrs.fr/iris.dumeur/ssl_ubarn)|
 |**GeRSP**|**Generic Knowledge Boosted Pre-training For Remote Sensing Images**|Arxiv2024|[GeRSP](https://arxiv.org/abs/2401.04614)|[GeRSP](https://github.com/floatingstarZ/GeRSP)|
 |**SwiMDiff**|**SwiMDiff: Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image**|Arxiv2024|[SwiMDiff](https://arxiv.org/abs/2401.05093)|null|
 |**OFA-Net**|**One for All: Toward Unified Foundation Models for Earth Vision**|Arxiv2024|[OFA-Net](https://arxiv.org/abs/2401.07527)|null|
@@ -90,6 +90,7 @@
 |**GeoChat**|**GeoChat: Grounded Large Vision-Language Model for Remote Sensing**|CVPR2024|[GeoChat](https://arxiv.org/abs/2311.15826)|[link](https://github.com/mbzuai-oryx/GeoChat)|
 |**LHRS-Bot**|**LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|
 |**H2RSVLM**|**H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/H2RSVLM)|
+|**RS-LLaVA**|**RS-LLaVA: Large Vision Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery**|RS2024|[Paper](https://www.mdpi.com/2072-4292/16/9/1477)|[link](https://github.com/BigData-KSU/RS-LLaVA?tab=readme-ov-file)|
 
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
@@ -169,7 +170,7 @@
 |**Clay**|**Clay Foundation Model**|-|null|**Vision**|[link](https://clay-foundation.github.io/model/)|
 |**SATIN**|**SATIN: A Multi-Task Metadataset for Classifying Satellite Imagery using Vision-Language Models**|ICCVW2023|[SATIN](https://arxiv.org/abs/2304.11619)|**Vision-Language**|[link](https://satinbenchmark.github.io/)|
 |**SkyScript**|**SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing**|AAAI2024|[SkyScript](https://arxiv.org/abs/2312.12856)|**Vision-Language**|[link](https://github.com/wangzhecheng/SkyScript)|
-|**ChatEarthNet**|**ChatEarthNet: A Global-Scale, High-Quality Image-Text Dataset for Remote Sensing**|Arxiv2024|[ChatEarthNet](https://arxiv.org/abs/2402.11325)|**Vision-Language**|[Comming soon]|
+|**ChatEarthNet**|**ChatEarthNet: A Global-Scale, High-Quality Image-Text Dataset for Remote Sensing**|Arxiv2024|[ChatEarthNet](https://arxiv.org/abs/2402.11325)|**Vision-Language**|[link](https://github.com/zhu-xlab/ChatEarthNet)|
 |**LuoJiaHOG**|**LuoJiaHOG: A Hierarchy Oriented Geo-aware Image Caption Dataset for Remote Sensing Image-Text Retrieval**|Arxiv2024|[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|**Vision-Language**|null|
 
 
