@@ -58,7 +58,7 @@
 |**USat**|**USat: A Unified Self-Supervised Encoder for Multi-Sensor Satellite Imagery**|Arxiv2023|[USat](https://arxiv.org/abs/2312.02199)|[link](https://github.com/stanfordmlgroup/USat)|
 |**FoMo-Bench**|**FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models**|Arxiv2023|[FoMo-Bench](https://arxiv.org/abs/2312.10114)|[link](https://github.com/RolnickLab/FoMo-Bench)|
 |**AIEarth**|**Analytical Insight of Earth: A Cloud-Platform of Intelligent Computing for Geospatial Big Data**|Arxiv2023|[AIEarth](https://arxiv.org/abs/2312.16385)|[link](https://engine-aiearth.aliyun.com/#/)|
-|**-**|**Self-Supervised Learning for SAR ATR with a Knowledge-Guided Predictive Architecture**|Arxiv2023|[Paper](https://arxiv.org/abs/2311.15153v1)|null|
+|**-**|**Self-Supervised Learning for SAR ATR with a Knowledge-Guided Predictive Architecture**|Arxiv2023|[Paper](https://arxiv.org/abs/2311.15153v4)|[link](https://github.com/waterdisappear/SAR-JEPA)|
 |**Clay**|**Clay Foundation Model**|-|null|[link](https://clay-foundation.github.io/model/)|
 |**Hydro**|****Hydro--A Foundation Model for Water in Satellite Imagery****|-|null|[link](https://github.com/isaaccorley/hydro-foundation-model)|
 |**U-BARN**|**Self-Supervised Spatio-Temporal Representation Learning of Satellite Image Time Series**|JSTARS2024|[Paper](https://ieeexplore.ieee.org/document/10414422)|[link](https://src.koda.cnrs.fr/iris.dumeur/ssl_ubarn)|
