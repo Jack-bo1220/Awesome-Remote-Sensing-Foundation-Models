@@ -9,12 +9,12 @@
 
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.05.08 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.05.10 :fire::fire::fire:
 
+- **2024.5.10**: Update a survey paper.
 - **2024.5.08**: Update MMEarth.
 - **2024.4.24**: Update the link of ChatEarthNet and U-BARN. Update RS-LLaVA.
 - **2024.4.03**: Update SAMRS and msGFM.
-- **2024.4.01**: Update PIS and H2RSVLM.
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -190,6 +190,7 @@
 |**Transfer learning in environmental remote sensing**|RSE2024|[Paper](https://www.sciencedirect.com/science/article/pii/S0034425723004765)|**Transfer learning**|
 |**遥感基础模型发展综述与未来设想**|遥感学报2023|[Paper](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20233313/)|**-**|
 |**On the Promises and Challenges of Multimodal Foundation Models for Geographical, Environmental, Agricultural, and Urban Planning Applications**|Arxiv2023|[Paper](https://arxiv.org/abs/2312.17016)|**Vision-Language**|
+|**On the Foundations of Earth and Climate Foundation Models**|Arxiv2024|[Paper](https://arxiv.org/abs/2405.04285)|**Vision & Vision-Language**|
 
 
 
