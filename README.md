@@ -11,11 +11,10 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.05.16 :fire::fire::fire:
 
+- **2024.5.17**: Update LeMeViT.
 - **2024.5.16**: Update SARATR-X.
 - **2024.5.10**: Update a survey paper.
 - **2024.5.08**: Update MMEarth.
-- **2024.4.24**: Update the link of ChatEarthNet and U-BARN. Update RS-LLaVA.
-- **2024.4.03**: Update SAMRS and msGFM.
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -77,6 +76,7 @@
 |**PIS**|**Pretrain A Remote Sensing Foundation Model by Promoting Intra-instance Similarity**|-|null|[link](https://github.com/ShawnAn-WHU/PIS)|
 |**MMEarth**|**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**|Arxiv2024|[MMEarth](https://arxiv.org/abs/2405.02771)|[link](https://vishalned.github.io/mmearth/)|
 |**SARATR-X**|**SARATR-X: A Foundation Model for Synthetic Aperture Radar Images Target Recognition**|Arxiv2024|[SARATR-X](https://arxiv.org/abs/2405.09365)|[link](https://github.com/waterdisappear/SARATR-X)|
+|**LeMeViT**|**LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation**|IJCAI2024|[LeMeViT](https://arxiv.org/abs/2405.09789)|[link](https://github.com/ViTAE-Transformer/LeMeViT/tree/main?tab=readme-ov-file)|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
