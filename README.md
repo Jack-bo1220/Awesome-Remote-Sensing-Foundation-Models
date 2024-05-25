@@ -9,12 +9,12 @@
 
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.05.16 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.05.25 :fire::fire::fire:
 
+- **2024.5.25**: Update MetaEarth.
 - **2024.5.17**: Update LeMeViT.
 - **2024.5.16**: Update SARATR-X.
 - **2024.5.10**: Update a survey paper.
-- **2024.5.08**: Update MMEarth.
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -104,6 +104,8 @@
 |**-**|**Generate Your Own Scotland: Satellite Image Generation Conditioned on Maps**|NeurIPSW2023|[Paper](https://arxiv.org/abs/2308.16648)|[link](https://github.com/toastyfrosty/map-sat)|
 |**DiffusionSat**|**DiffusionSat: A Generative Foundation Model for Satellite Imagery**|ICLR2024|[DiffusionSat](https://arxiv.org/abs/2312.03606)|[link](https://github.com/samar-khanna/DiffusionSat)|
 |**CRS-Diff**|**CRS-Diff: Controllable Generative Remote Sensing Foundation Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.11614)|null|
+|**MetaEarth**|**MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation**|Arxiv2024|[Paper](https://arxiv.org/abs/2405.13570)|[link](https://jiupinjia.github.io/metaearth/)|
+
 
 
 ## Remote Sensing <ins>Vision-Location</ins> Foundation Models
