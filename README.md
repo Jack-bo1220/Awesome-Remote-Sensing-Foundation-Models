@@ -9,12 +9,12 @@
 
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.05.25 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.06.04 :fire::fire::fire:
 
+- **2024.6.04**: Update SoftCon.
 - **2024.5.25**: Update MetaEarth.
 - **2024.5.17**: Update LeMeViT.
 - **2024.5.16**: Update SARATR-X.
-- **2024.5.10**: Update a survey paper.
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -77,6 +77,7 @@
 |**MMEarth**|**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**|Arxiv2024|[MMEarth](https://arxiv.org/abs/2405.02771)|[link](https://vishalned.github.io/mmearth/)|
 |**SARATR-X**|**SARATR-X: A Foundation Model for Synthetic Aperture Radar Images Target Recognition**|Arxiv2024|[SARATR-X](https://arxiv.org/abs/2405.09365)|[link](https://github.com/waterdisappear/SARATR-X)|
 |**LeMeViT**|**LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation**|IJCAI2024|[LeMeViT](https://arxiv.org/abs/2405.09789)|[link](https://github.com/ViTAE-Transformer/LeMeViT/tree/main?tab=readme-ov-file)|
+|**SoftCon**|**Multi-Label Guided Soft Contrastive Learning for Efficient Earth Observation Pretraining**|Arxiv2024|[SoftCon](https://arxiv.org/abs/2405.20462)|[link](https://github.com/zhu-xlab/softcon?tab=readme-ov-file)|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
