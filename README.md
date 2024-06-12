@@ -9,7 +9,7 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.06.12 :fire::fire::fire:
 
-- **2024.6.12**: Update Seefar and RS-DFM.
+- **2024.6.12**: Update Seefar, RS-DFM, RSFMs Playground.
 - **2024.6.04**: Update SoftCon.
 - **2024.5.25**: Update MetaEarth.
 - **2024.5.17**: Update LeMeViT.
@@ -18,7 +18,17 @@
 - **Models**
   - [Remote Sensing Vision Foundation Models](#remote-sensing-vision-foundation-models)
   - [Remote Sensing Vision-Language Foundation Models](#remote-sensing-vision-language-foundation-models)
-
+  - [Remote Sensing Generative Foundation Models](#remote-sensing-generative-foundation-models)
+  - [Remote Sensing Vision-Location Foundation Models](#remote-sensing-vision-location-foundation-models)
+  - [Remote Sensing Vision-Audio Foundation Models](#remote-sensing-vision-audio-foundation-models)
+  - [Remote Sensing Task-specific Foundation Models](#remote-sensing-task-specific-foundation-models)
+- **Datasets & Benchmarks**
+  - [Benchmarks for RSFMs](#benchmarks-for-rSFMs)
+  - [(Large-scale) Pre-training Datasets](#(Large-scale)-Pre-training-Datasets)
+- **Others**
+  - [Survey Papers](#survey-papers)
+  - [Related Repositories](#related-repositories)
+  
 ## Remote Sensing <ins>Vision</ins> Foundation Models
 
 |Abbreviation|Title|Publication|Paper|Code & Weights|
@@ -184,6 +194,11 @@
 |**MMEarth**|**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**|Arxiv2024|[MMEarth](https://arxiv.org/abs/2405.02771)|**Vision**|[link](https://vishalned.github.io/mmearth/)|
 |**SeeFar**|**SeeFar: Satellite Agnostic Multi-Resolution Dataset for Geospatial Foundation Models**|Arxiv2024|[SeeFar](https://arxiv.org/abs/2406.06776)|**Vision**|[link](https://coastalcarbon.ai/seefar)|
 
+# Related Projects
+*（TODO. This section is dedicated to recommending more relevant and impactful projects, with the hope of promoting the development of the RS community. :smile: :rocket:）*
+|Title|Link|Brief Introduction|
+|---|:---:|:---:|
+|**RSFMs (Remote Sensing Foundation Models) Playground**|[link](https://github.com/synativ/RSFMs)|An open-source playground to streamline the evaluation and fine-tuning of RSFMs on various datasets.|
 
 ## Survey Papers
 |Title|Publication|Paper|Attribute|
