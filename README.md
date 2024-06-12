@@ -9,7 +9,7 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.06.12 :fire::fire::fire:
 
-- **2024.6.12**: Update Seefar, RS-DFM, RSFMs Playground, and RS-Agent.
+- **2024.6.12**: Update Seefar, RS-DFM, RSFMs Playground, and [RS-Agent](#user-content-diffusionsat).
 - **2024.6.04**: Update SoftCon.
 - **2024.5.25**: Update MetaEarth.
 - **2024.5.17**: Update LeMeViT.
