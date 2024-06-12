@@ -6,8 +6,6 @@
 
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
-
-
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.06.12 :fire::fire::fire:
 
@@ -16,6 +14,10 @@
 - **2024.5.25**: Update MetaEarth.
 - **2024.5.17**: Update LeMeViT.
 
+## Table of Contents
+- **Models**
+  - [Remote Sensing Vision Foundation Models](#remote-sensing-vision-foundation-models)
+  - [Remote Sensing Vision-Language Foundation Models](#remote-sensing-vision-language-foundation-models)
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
 
