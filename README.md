@@ -9,12 +9,12 @@
 
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.06.04 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.06.12 :fire::fire::fire:
 
+- **2024.6.12**: Update Seefar and RS-DFM.
 - **2024.6.04**: Update SoftCon.
 - **2024.5.25**: Update MetaEarth.
 - **2024.5.17**: Update LeMeViT.
-- **2024.5.16**: Update SARATR-X.
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -78,6 +78,7 @@
 |**SARATR-X**|**SARATR-X: A Foundation Model for Synthetic Aperture Radar Images Target Recognition**|Arxiv2024|[SARATR-X](https://arxiv.org/abs/2405.09365)|[link](https://github.com/waterdisappear/SARATR-X)|
 |**LeMeViT**|**LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation**|IJCAI2024|[LeMeViT](https://arxiv.org/abs/2405.09789)|[link](https://github.com/ViTAE-Transformer/LeMeViT/tree/main?tab=readme-ov-file)|
 |**SoftCon**|**Multi-Label Guided Soft Contrastive Learning for Efficient Earth Observation Pretraining**|Arxiv2024|[SoftCon](https://arxiv.org/abs/2405.20462)|[link](https://github.com/zhu-xlab/softcon?tab=readme-ov-file)|
+|**RS-DFM**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Arxiv2024|[RS-DFM](https://arxiv.org/abs/2406.07032)|null|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
@@ -179,6 +180,7 @@
 |**ChatEarthNet**|**ChatEarthNet: A Global-Scale, High-Quality Image-Text Dataset for Remote Sensing**|Arxiv2024|[ChatEarthNet](https://arxiv.org/abs/2402.11325)|**Vision-Language**|[link](https://github.com/zhu-xlab/ChatEarthNet)|
 |**LuoJiaHOG**|**LuoJiaHOG: A Hierarchy Oriented Geo-aware Image Caption Dataset for Remote Sensing Image-Text Retrieval**|Arxiv2024|[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|**Vision-Language**|null|
 |**MMEarth**|**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**|Arxiv2024|[MMEarth](https://arxiv.org/abs/2405.02771)|**Vision**|[link](https://vishalned.github.io/mmearth/)|
+|**SeeFar**|**SeeFar: Satellite Agnostic Multi-Resolution Dataset for Geospatial Foundation Models**|Arxiv2024|[SeeFar](https://arxiv.org/abs/2406.06776)|**Vision**|[link](https://coastalcarbon.ai/seefar)|
 
 
 ## Survey Papers
