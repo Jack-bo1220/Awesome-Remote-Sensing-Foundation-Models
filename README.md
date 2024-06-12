@@ -9,7 +9,7 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.06.12 :fire::fire::fire:
 
-- **2024.6.12**: Update Seefar, RS-DFM, RSFMs Playground.
+- **2024.6.12**: Update Seefar, RS-DFM, RSFMs Playground, and RS-Agent.
 - **2024.6.04**: Update SoftCon.
 - **2024.5.25**: Update MetaEarth.
 - **2024.5.17**: Update LeMeViT.
@@ -22,12 +22,13 @@
   - [Remote Sensing Vision-Location Foundation Models](#remote-sensing-vision-location-foundation-models)
   - [Remote Sensing Vision-Audio Foundation Models](#remote-sensing-vision-audio-foundation-models)
   - [Remote Sensing Task-specific Foundation Models](#remote-sensing-task-specific-foundation-models)
+  - [Remote Sensing Agents](#remote-sensing-agents)
 - **Datasets & Benchmarks**
   - [Benchmarks for RSFMs](#benchmarks-for-rSFMs)
-  - [(Large-scale) Pre-training Datasets](#(Large-scale)-Pre-training-Datasets)
+  - [(Large-scale) Pre-training Datasets](#large-scale-Pre-training-Datasets)
 - **Others**
+  - [Relevant Projects](#relevant-projects)
   - [Survey Papers](#survey-papers)
-  - [Related Repositories](#related-repositories)
   
 ## Remote Sensing <ins>Vision</ins> Foundation Models
 
@@ -153,6 +154,11 @@
 |**RSBuilding**|**RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.07564)|[link](https://github.com/Meize0729/RSBuilding)|Building Extraction and Change Detection|
 |**SAM-Road**|**Segment Anything Model for Road Network Graph Extraction**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.16051)|[link](https://github.com/htcr/sam_road)|Road Extraction|
 
+## Remote Sensing Agents
+|Abbreviation|Title|Publication|Paper|Code & Weights|
+|:---:|---|:---:|:---:|:---:|
+|**GeoLLM-QA**|**Evaluating Tool-Augmented Agents in Remote Sensing Platforms**|ICLR 2024 ML4RS Workshop|[Paper](https://arxiv.org/abs/2405.00709)|null|
+|**RS-Agent**|**RS-Agent: Automating Remote Sensing Tasks through Intelligent Agents**|Arxiv2024|[Paper](https://arxiv.org/abs/2406.07089)|null|
 
 
 ## Benchmarks for RSFMs
@@ -194,7 +200,7 @@
 |**MMEarth**|**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**|Arxiv2024|[MMEarth](https://arxiv.org/abs/2405.02771)|**Vision**|[link](https://vishalned.github.io/mmearth/)|
 |**SeeFar**|**SeeFar: Satellite Agnostic Multi-Resolution Dataset for Geospatial Foundation Models**|Arxiv2024|[SeeFar](https://arxiv.org/abs/2406.06776)|**Vision**|[link](https://coastalcarbon.ai/seefar)|
 
-# Related Projects
+# Relevant Projects
 *（TODO. This section is dedicated to recommending more relevant and impactful projects, with the hope of promoting the development of the RS community. :smile: :rocket:）*
 |Title|Link|Brief Introduction|
 |---|:---:|:---:|
@@ -216,9 +222,7 @@
 |**Vision-Language Models in Remote Sensing: Current Progress and Future Trends**|IEEE GRSM2024|[Paper](https://arxiv.org/abs/2305.05726)|**Vision-Language**|
 |**On the Foundations of Earth and Climate Foundation Models**|Arxiv2024|[Paper](https://arxiv.org/abs/2405.04285)|**Vision & Vision-Language**|
 
-
-
-## Cite
+## Citation
 
 If you find this repository useful, please consider giving a star :star: and citation:
 
