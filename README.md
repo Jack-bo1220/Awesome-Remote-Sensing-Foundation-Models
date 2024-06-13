@@ -7,8 +7,9 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.06.12 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.06.13 :fire::fire::fire:
 
+- **2024.6.13**: Update A2-MAE.
 - **2024.6.12**: Update Seefar, RS-DFM, RSFMs Playground, and RS-Agent.
 - **2024.6.04**: Update SoftCon.
 - **2024.5.25**: Update MetaEarth.
@@ -92,6 +93,7 @@
 |**LeMeViT**|**LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation**|IJCAI2024|[LeMeViT](https://arxiv.org/abs/2405.09789)|[link](https://github.com/ViTAE-Transformer/LeMeViT/tree/main?tab=readme-ov-file)|
 |**SoftCon**|**Multi-Label Guided Soft Contrastive Learning for Efficient Earth Observation Pretraining**|Arxiv2024|[SoftCon](https://arxiv.org/abs/2405.20462)|[link](https://github.com/zhu-xlab/softcon?tab=readme-ov-file)|
 |**RS-DFM**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Arxiv2024|[RS-DFM](https://arxiv.org/abs/2406.07032)|null|
+|**A2-MAE**|**A2-MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Arxiv2024|[A2-MAE](https://arxiv.org/abs/2406.08079)|null|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
