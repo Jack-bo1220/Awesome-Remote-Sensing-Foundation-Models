@@ -7,13 +7,13 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.06.13 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.06.14 :fire::fire::fire:
 
+- **2024.6.14**: Update SkySenseGPT and a survey paper.
 - **2024.6.13**: Update A2-MAE.
 - **2024.6.12**: Update Seefar, RS-DFM, RSFMs Playground, and RS-Agent.
 - **2024.6.04**: Update SoftCon.
 - **2024.5.25**: Update MetaEarth.
-- **2024.5.17**: Update LeMeViT.
 
 ## Table of Contents
 - **Models**
@@ -112,6 +112,7 @@
 |**LHRS-Bot**|**LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|
 |**H2RSVLM**|**H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/H2RSVLM)|
 |**RS-LLaVA**|**RS-LLaVA: Large Vision Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery**|RS2024|[Paper](https://www.mdpi.com/2072-4292/16/9/1477)|[link](https://github.com/BigData-KSU/RS-LLaVA?tab=readme-ov-file)|
+|**SkySenseGPT**|**SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding**|Arxiv2024|[Paper]()|[link](https://github.com/Luo-Z13/SkySenseGPT)|
 
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
@@ -203,6 +204,8 @@
 |**LuoJiaHOG**|**LuoJiaHOG: A Hierarchy Oriented Geo-aware Image Caption Dataset for Remote Sensing Image-Text Retrieval**|Arxiv2024|[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|**Vision-Language**|null|
 |**MMEarth**|**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**|Arxiv2024|[MMEarth](https://arxiv.org/abs/2405.02771)|**Vision**|[link](https://vishalned.github.io/mmearth/)|
 |**SeeFar**|**SeeFar: Satellite Agnostic Multi-Resolution Dataset for Geospatial Foundation Models**|Arxiv2024|[SeeFar](https://arxiv.org/abs/2406.06776)|**Vision**|[link](https://coastalcarbon.ai/seefar)|
+|**FIT-RS**|**SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding**|Arxiv2024|[Paper]()|**Vision-Language**|[link](https://github.com/Luo-Z13/SkySenseGPT)|
+
 
 # Relevant Projects
 *（TODO. This section is dedicated to recommending more relevant and impactful projects, with the hope of promoting the development of the RS community. :smile: :rocket:）*
@@ -225,18 +228,18 @@
 |**On the Promises and Challenges of Multimodal Foundation Models for Geographical, Environmental, Agricultural, and Urban Planning Applications**|Arxiv2023|[Paper](https://arxiv.org/abs/2312.17016)|**Vision-Language**|
 |**Vision-Language Models in Remote Sensing: Current Progress and Future Trends**|IEEE GRSM2024|[Paper](https://arxiv.org/abs/2305.05726)|**Vision-Language**|
 |**On the Foundations of Earth and Climate Foundation Models**|Arxiv2024|[Paper](https://arxiv.org/abs/2405.04285)|**Vision & Vision-Language**|
+|**Towards Vision-Language Geo-Foundation Model: A Survey**|Arxiv2024|[Paper](https://arxiv.org/abs/2406.09385)|**Vision-Language**|
 
 ## Citation
 
 If you find this repository useful, please consider giving a star :star: and citation:
 
 ```
-@InProceedings{guo2023skysense,
-      title={SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery}, 
-      author={Xin Guo and Jiangwei Lao and Bo Dang and Yingying Zhang and Lei Yu and Lixiang Ru and Liheng Zhong and Ziyuan Huang and Kang Wu and Dingxiang Hu and Huimei He and Jian Wang and Jingdong Chen and Ming Yang and Yongjun Zhang and Yansheng Li},
-      booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-      month     = {},
-      year      = {2024},
-      pages     = {}
+@inproceedings{guo2024skysense,
+  title={Skysense: A multi-modal remote sensing foundation model towards universal interpretation for earth observation imagery},
+  author={Guo, Xin and Lao, Jiangwei and Dang, Bo and Zhang, Yingying and Yu, Lei and Ru, Lixiang and Zhong, Liheng and Huang, Ziyuan and Wu, Kang and Hu, Dingxiang and others},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={27672--27683},
+  year={2024}
 }
 ```
