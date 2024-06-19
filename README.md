@@ -7,8 +7,9 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.06.18 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.06.19 :fire::fire::fire:
 
+- **2024.6.19**: Update RS-GPT4V and SelectiveMAE.
 - **2024.6.18**: Update HyperSIGMA.
 - **2024.6.14**: Update SkySenseGPT and a survey paper.
 - **2024.6.13**: Update A2-MAE.
@@ -94,6 +95,8 @@
 |**RS-DFM**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Arxiv2024|[RS-DFM](https://arxiv.org/abs/2406.07032)|null|
 |**A2-MAE**|**A2-MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Arxiv2024|[A2-MAE](https://arxiv.org/abs/2406.08079)|null|
 |**HyperSIGMA**|**HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model**|Arxiv2024|[HyperSIGMA](https://arxiv.org/abs/2406.11519)|[link](https://github.com/WHU-Sigma/HyperSIGMA?tab=readme-ov-file)|
+|**SelectiveMAE**|**Scaling Efficient Masked Autoencoder Learning on Large Remote Sensing Dataset**|Arxiv2024|[SelectiveMAE](https://arxiv.org/abs/2406.11933)|[link](https://github.com/Fengxiang23/SelectiveMAE)|
+
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
@@ -205,7 +208,8 @@
 |**MMEarth**|**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**|Arxiv2024|[MMEarth](https://arxiv.org/abs/2405.02771)|**Vision**|[link](https://vishalned.github.io/mmearth/)|
 |**SeeFar**|**SeeFar: Satellite Agnostic Multi-Resolution Dataset for Geospatial Foundation Models**|Arxiv2024|[SeeFar](https://arxiv.org/abs/2406.06776)|**Vision**|[link](https://coastalcarbon.ai/seefar)|
 |**FIT-RS**|**SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding**|Arxiv2024|[Paper]()|**Vision-Language**|[link](https://github.com/Luo-Z13/SkySenseGPT)|
-
+|**RS-GPT4V**|**RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding**|Arxiv2024|[Paper](https://arxiv.org/abs/2406.12479)|**Vision-Language**|[link](https://github.com/GeoX-Lab/RS-GPT4V/tree/main)|
+|**RS-4M**|**Scaling Efficient Masked Autoencoder Learning on Large Remote Sensing Dataset**|Arxiv2024|[RS-4M](https://arxiv.org/abs/2406.11933)|**Vision**|[link](https://github.com/Fengxiang23/SelectiveMAE)|
 
 # Relevant Projects
 *（TODO. This section is dedicated to recommending more relevant and impactful projects, with the hope of promoting the development of the RS community. :smile: :rocket:）*
