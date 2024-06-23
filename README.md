@@ -7,13 +7,13 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.06.19 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.06.23 :fire::fire::fire:
 
+- **2024.6.23**: Update VRSBench and Major TOM.
 - **2024.6.19**: Update RS-GPT4V and SelectiveMAE.
 - **2024.6.18**: Update HyperSIGMA.
 - **2024.6.14**: Update SkySenseGPT and a survey paper.
 - **2024.6.13**: Update A2-MAE.
-- **2024.6.12**: Update Seefar, RS-DFM, RSFMs Playground, and RS-Agent.
 
 ## Table of Contents
 - **Models**
@@ -178,6 +178,7 @@
 |**PhilEO**|**PhilEO Bench: Evaluating Geo-Spatial Foundation Models**|Arxiv2024|[Paper](https://arxiv.org/abs/2401.04464)|[link](https://github.com/91097luke/phileo-bench)|Segmentation & Regression estimation|
 |**SkySense**|**SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery**|CVPR2024|[SkySense](https://arxiv.org/abs/2312.10115)|Comming Soon|Classification & Segmentation & Detection & Change detection & Multi-Modal Segmentation: Time-insensitive LandCover Mapping & Multi-Modal Segmentation: Time-sensitive Crop Mapping & Multi-Modal Scene Classification|
 |**VLEO-Bench**|**Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data**|Arxiv2024|[VLEO-bench](https://arxiv.org/abs/2401.17600)|[link](https://vleo.danielz.ch/)| Location Recognition & Captioning & Scene Classification & Counting & Detection & Change detection|
+|**VRSBench**|**VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding**|Arxiv2024|[VRSBench](https://arxiv.org/abs/2406.12384)|[link](https://vrsbench.github.io/)|Image Captioning & Object Referring & Visual Question Answering|
 
 
 ## (Large-scale) Pre-training Datasets
@@ -210,6 +211,8 @@
 |**FIT-RS**|**SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding**|Arxiv2024|[Paper]()|**Vision-Language**|[link](https://github.com/Luo-Z13/SkySenseGPT)|
 |**RS-GPT4V**|**RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding**|Arxiv2024|[Paper](https://arxiv.org/abs/2406.12479)|**Vision-Language**|[link](https://github.com/GeoX-Lab/RS-GPT4V/tree/main)|
 |**RS-4M**|**Scaling Efficient Masked Autoencoder Learning on Large Remote Sensing Dataset**|Arxiv2024|[RS-4M](https://arxiv.org/abs/2406.11933)|**Vision**|[link](https://github.com/Fengxiang23/SelectiveMAE)|
+|**Major TOM**|**Major TOM: Expandable Datasets for Earth Observation**|Arxiv2024|[Major TOM](https://arxiv.org/abs/2402.12095)|**Vision**|[link](https://huggingface.co/Major-TOM)|
+|**VRSBench**|**VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding**|Arxiv2024|[VRSBench](https://arxiv.org/abs/2406.12384)|**Vision-Language**|[link](https://vrsbench.github.io/)|
 
 # Relevant Projects
 *（TODO. This section is dedicated to recommending more relevant and impactful projects, with the hope of promoting the development of the RS community. :smile: :rocket:）*
