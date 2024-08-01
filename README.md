@@ -10,11 +10,6 @@
 :fire::fire::fire: Last Updated on 2024.08.01 :fire::fire::fire:
 
 - **2024.8.01**: Update OmniSat and MM-VSF.
-- **2024.6.23**: Update VRSBench and Major TOM.
-- **2024.6.19**: Update RS-GPT4V and SelectiveMAE.
-- **2024.6.18**: Update HyperSIGMA.
-- **2024.6.14**: Update SkySenseGPT and a survey paper.
-- **2024.6.13**: Update A2-MAE.
 
 ## Table of Contents
 - **Models**
