@@ -7,8 +7,9 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.08.01 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.08.06 :fire::fire::fire:
 
+- **2024.8.06**: Update MA3E.
 - **2024.8.01**: Update OmniSat and MM-VSF.
 
 ## Table of Contents
