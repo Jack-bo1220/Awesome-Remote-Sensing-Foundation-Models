@@ -94,6 +94,7 @@
 |**SelectiveMAE**|**Scaling Efficient Masked Autoencoder Learning on Large Remote Sensing Dataset**|Arxiv2024|[SelectiveMAE](https://arxiv.org/abs/2406.11933)|[link](https://github.com/Fengxiang23/SelectiveMAE)|
 |**OmniSat**|**OmniSat: Self-Supervised Modality Fusion for Earth Observation**|ECCV2024|[OmniSat](https://arxiv.org/pdf/2404.08351)|[link](https://github.com/gastruc/OmniSat?tab=readme-ov-file)|
 |**MM-VSF**|**Towards a Knowledge guided Multimodal Foundation Model for Spatio-Temporal Remote Sensing Applications**|Arxiv2024|[MM-VSF](https://arxiv.org/pdf/2407.19660)|null|
+|**MA3E**|**Masked Angle-Aware Autoencoder for Remote Sensing Images**|ECCV2024|[MA3E](https://arxiv.org/abs/2408.01946)|[link](https://github.com/benesakitam/MA3E)|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
