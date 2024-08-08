@@ -7,8 +7,9 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.08.06 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.08.08 :fire::fire::fire:
 
+- **2024.8.08**: Update a survey paper.
 - **2024.8.06**: Update MA3E.
 - **2024.8.01**: Update OmniSat and MM-VSF.
 
@@ -235,6 +236,7 @@
 |**Vision-Language Models in Remote Sensing: Current Progress and Future Trends**|IEEE GRSM2024|[Paper](https://arxiv.org/abs/2305.05726)|**Vision-Language**|
 |**On the Foundations of Earth and Climate Foundation Models**|Arxiv2024|[Paper](https://arxiv.org/abs/2405.04285)|**Vision & Vision-Language**|
 |**Towards Vision-Language Geo-Foundation Model: A Survey**|Arxiv2024|[Paper](https://arxiv.org/abs/2406.09385)|**Vision-Language**|
+|**AI Foundation Models in Remote Sensing: A Survey**|Arxiv2024|[Paper](https://arxiv.org/abs/2408.03464)|**Vision**|
 
 ## Citation
 
