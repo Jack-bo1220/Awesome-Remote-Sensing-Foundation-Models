@@ -7,7 +7,7 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.08.08 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.08.19 :fire::fire::fire:
 
 - **2024.8.19**: Update SpectralEarth.
 - **2024.8.08**: Update a survey paper.
