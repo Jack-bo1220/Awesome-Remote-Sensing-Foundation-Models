@@ -9,9 +9,9 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.08.08 :fire::fire::fire:
 
+- **2024.8.19**: Update SpectralEarth.
 - **2024.8.08**: Update a survey paper.
 - **2024.8.06**: Update MA3E.
-- **2024.8.01**: Update OmniSat and MM-VSF.
 
 ## Table of Contents
 - **Models**
@@ -97,6 +97,7 @@
 |**OmniSat**|**OmniSat: Self-Supervised Modality Fusion for Earth Observation**|ECCV2024|[OmniSat](https://arxiv.org/pdf/2404.08351)|[link](https://github.com/gastruc/OmniSat?tab=readme-ov-file)|
 |**MM-VSF**|**Towards a Knowledge guided Multimodal Foundation Model for Spatio-Temporal Remote Sensing Applications**|Arxiv2024|[MM-VSF](https://arxiv.org/pdf/2407.19660)|null|
 |**MA3E**|**Masked Angle-Aware Autoencoder for Remote Sensing Images**|ECCV2024|[MA3E](https://arxiv.org/abs/2408.01946)|[link](https://github.com/benesakitam/MA3E)|
+|**SpectralEarth**|**SpectralEarth: Training Hyperspectral Foundation Models at Scale**|Arxiv2024|[SpectralEarth](https://arxiv.org/abs/2408.08447)|null|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
