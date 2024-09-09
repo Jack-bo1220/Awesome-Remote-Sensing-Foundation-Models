@@ -7,11 +7,12 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.08.19 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.09.09 :fire::fire::fire:
 
+- **2024.9.09**: Update GeoText, UrBench, SenPa-MAE.
 - **2024.8.19**: Update SpectralEarth.
 - **2024.8.08**: Update a survey paper.
-- **2024.8.06**: Update MA3E.
+
 
 ## Table of Contents
 - **Models**
@@ -98,6 +99,7 @@
 |**MM-VSF**|**Towards a Knowledge guided Multimodal Foundation Model for Spatio-Temporal Remote Sensing Applications**|Arxiv2024|[MM-VSF](https://arxiv.org/pdf/2407.19660)|null|
 |**MA3E**|**Masked Angle-Aware Autoencoder for Remote Sensing Images**|ECCV2024|[MA3E](https://arxiv.org/abs/2408.01946)|[link](https://github.com/benesakitam/MA3E)|
 |**SpectralEarth**|**SpectralEarth: Training Hyperspectral Foundation Models at Scale**|Arxiv2024|[SpectralEarth](https://arxiv.org/abs/2408.08447)|null|
+|**SenPa-MAE**|**SenPa-MAE: Sensor Parameter Aware Masked Autoencoder for Multi-Satellite Self-Supervised Pretraining**|Arxiv2024|[SenPa-MAE](https://arxiv.org/abs/2408.11000)|[link](https://github.com/JonathanPrexl/SenPa-MAE)|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
@@ -116,8 +118,8 @@
 |**LHRS-Bot**|**LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|
 |**H2RSVLM**|**H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/H2RSVLM)|
 |**RS-LLaVA**|**RS-LLaVA: Large Vision Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery**|RS2024|[Paper](https://www.mdpi.com/2072-4292/16/9/1477)|[link](https://github.com/BigData-KSU/RS-LLaVA?tab=readme-ov-file)|
-|**SkySenseGPT**|**SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding**|Arxiv2024|[Paper]()|[link](https://github.com/Luo-Z13/SkySenseGPT)|
-
+|**SkySenseGPT**|**SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding**|Arxiv2024|[Paper](https://arxiv.org/abs/2406.10100)|[link](https://github.com/Luo-Z13/SkySenseGPT)|
+|**GeoText**|**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching**|ECCV2024|[Paper](https://arxiv.org/abs/2311.12751)|[link](https://multimodalgeo.github.io/GeoText/)|
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
 
