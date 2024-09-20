@@ -87,7 +87,7 @@
 |**MTP**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Arxiv2024|[MTP](https://arxiv.org/abs/2403.13430)|[link](https://github.com/ViTAE-Transformer/MTP)|
 |**DOFA**|**Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities**|Arxiv2024|[DOFA](https://arxiv.org/abs/2403.15356)|[link](https://github.com/zhu-xlab/DOFA)|
 |**PIS**|**Pretrain A Remote Sensing Foundation Model by Promoting Intra-instance Similarity**|-|null|[link](https://github.com/ShawnAn-WHU/PIS)|
-|**MMEarth**|**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**|Arxiv2024|[MMEarth](https://arxiv.org/abs/2405.02771)|[link](https://vishalned.github.io/mmearth/)|
+|**MMEarth**|**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**|ECCV2024|[MMEarth](https://arxiv.org/abs/2405.02771)|[link](https://vishalned.github.io/mmearth/)|
 |**SARATR-X**|**SARATR-X: A Foundation Model for Synthetic Aperture Radar Images Target Recognition**|Arxiv2024|[SARATR-X](https://arxiv.org/abs/2405.09365)|[link](https://github.com/waterdisappear/SARATR-X)|
 |**LeMeViT**|**LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation**|IJCAI2024|[LeMeViT](https://arxiv.org/abs/2405.09789)|[link](https://github.com/ViTAE-Transformer/LeMeViT/tree/main?tab=readme-ov-file)|
 |**SoftCon**|**Multi-Label Guided Soft Contrastive Learning for Efficient Earth Observation Pretraining**|Arxiv2024|[SoftCon](https://arxiv.org/abs/2405.20462)|[link](https://github.com/zhu-xlab/softcon?tab=readme-ov-file)|
