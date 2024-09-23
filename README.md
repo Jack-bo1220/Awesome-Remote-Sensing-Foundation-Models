@@ -242,6 +242,7 @@
 |**On the Foundations of Earth and Climate Foundation Models**|Arxiv2024|[Paper](https://arxiv.org/abs/2405.04285)|**Vision & Vision-Language**|
 |**Towards Vision-Language Geo-Foundation Model: A Survey**|Arxiv2024|[Paper](https://arxiv.org/abs/2406.09385)|**Vision-Language**|
 |**AI Foundation Models in Remote Sensing: A Survey**|Arxiv2024|[Paper](https://arxiv.org/abs/2408.03464)|**Vision**|
+|**Foundation model for generalist remote sensing intelligence: Potentials and prospects**|Science Bulletin2024|[Paper](https://www.sciencedirect.com/science/article/pii/S2095927324006510?via%3Dihub)|**-**|
 
 ## Citation
 
