@@ -7,11 +7,11 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.09.09 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.09.23 :fire::fire::fire:
 
+- **2024.9.23**: Update RingMo-Aerial and HSIGene.
 - **2024.9.09**: Update GeoText, UrBench, SenPa-MAE.
 - **2024.8.19**: Update SpectralEarth.
-- **2024.8.08**: Update a survey paper.
 
 
 ## Table of Contents
@@ -100,6 +100,7 @@
 |**MA3E**|**Masked Angle-Aware Autoencoder for Remote Sensing Images**|ECCV2024|[MA3E](https://arxiv.org/abs/2408.01946)|[link](https://github.com/benesakitam/MA3E)|
 |**SpectralEarth**|**SpectralEarth: Training Hyperspectral Foundation Models at Scale**|Arxiv2024|[SpectralEarth](https://arxiv.org/abs/2408.08447)|null|
 |**SenPa-MAE**|**SenPa-MAE: Sensor Parameter Aware Masked Autoencoder for Multi-Satellite Self-Supervised Pretraining**|Arxiv2024|[SenPa-MAE](https://arxiv.org/abs/2408.11000)|[link](https://github.com/JonathanPrexl/SenPa-MAE)|
+|**RingMo-Aerial**|**RingMo-Aerial: An Aerial Remote Sensing Foundation Model With A Affine Transformation Contrastive Learning**|Arxiv2024|[RingMo-Aerial](https://arxiv.org/abs/2409.13366)|null|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
@@ -131,7 +132,7 @@
 |**DiffusionSat**|**DiffusionSat: A Generative Foundation Model for Satellite Imagery**|ICLR2024|[DiffusionSat](https://arxiv.org/abs/2312.03606)|[link](https://github.com/samar-khanna/DiffusionSat)|
 |**CRS-Diff**|**CRS-Diff: Controllable Generative Remote Sensing Foundation Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.11614)|null|
 |**MetaEarth**|**MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation**|Arxiv2024|[Paper](https://arxiv.org/abs/2405.13570)|[link](https://jiupinjia.github.io/metaearth/)|
-
+|**HSIGene**|**HSIGene: A Foundation Model For Hyperspectral Image Generation**|Arxiv2024|[Paper](https://arxiv.org/abs/2409.12470)|[link](https://github.com/LiPang/HSIGene)|
 
 
 ## Remote Sensing <ins>Vision-Location</ins> Foundation Models
