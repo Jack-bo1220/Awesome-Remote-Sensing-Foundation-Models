@@ -7,8 +7,9 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.09.23 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.09.24 :fire::fire::fire:
 
+- **2024.9.24**: Update CRS-Diff.
 - **2024.9.23**: Update RingMo-Aerial and HSIGene.
 - **2024.9.09**: Update GeoText, UrBench, SenPa-MAE.
 - **2024.8.19**: Update SpectralEarth.
@@ -132,8 +133,8 @@
 |**DiffusionSat**|**DiffusionSat: A Generative Foundation Model for Satellite Imagery**|ICLR2024|[DiffusionSat](https://arxiv.org/abs/2312.03606)|[link](https://github.com/samar-khanna/DiffusionSat)|
 |**CRS-Diff**|**CRS-Diff: Controllable Generative Remote Sensing Foundation Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.11614)|null|
 |**MetaEarth**|**MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation**|Arxiv2024|[Paper](https://arxiv.org/abs/2405.13570)|[link](https://jiupinjia.github.io/metaearth/)|
+|**CRS-Diff**|**CRS-Diff: Controllable Generative Remote Sensing Foundation Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.11614)|[link](https://github.com/Sonettoo/CRS-Diff?tab=readme-ov-file)|
 |**HSIGene**|**HSIGene: A Foundation Model For Hyperspectral Image Generation**|Arxiv2024|[Paper](https://arxiv.org/abs/2409.12470)|[link](https://github.com/LiPang/HSIGene)|
-
 
 ## Remote Sensing <ins>Vision-Location</ins> Foundation Models
 
