@@ -7,12 +7,12 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.09.24 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.09.29 :fire::fire::fire:
 
+- **2024.9.29**: Update EarthMarker.
 - **2024.9.24**: Update CRS-Diff.
 - **2024.9.23**: Update RingMo-Aerial and HSIGene.
 - **2024.9.09**: Update GeoText, UrBench, SenPa-MAE.
-- **2024.8.19**: Update SpectralEarth.
 
 
 ## Table of Contents
@@ -121,6 +121,7 @@
 |**H2RSVLM**|**H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/H2RSVLM)|
 |**RS-LLaVA**|**RS-LLaVA: Large Vision Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery**|RS2024|[Paper](https://www.mdpi.com/2072-4292/16/9/1477)|[link](https://github.com/BigData-KSU/RS-LLaVA?tab=readme-ov-file)|
 |**SkySenseGPT**|**SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding**|Arxiv2024|[Paper](https://arxiv.org/abs/2406.10100)|[link](https://github.com/Luo-Z13/SkySenseGPT)|
+|**EarthMarker**|**EarthMarker: Visual Prompt Learning for Region-level and Point-level Remote Sensing Imagery Comprehension**|Arxiv2024|[Paper](https://arxiv.org/abs/2407.13596)|[link](https://github.com/wivizhang/EarthMarker)|
 |**GeoText**|**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching**|ECCV2024|[Paper](https://arxiv.org/abs/2311.12751)|[link](https://multimodalgeo.github.io/GeoText/)|
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
