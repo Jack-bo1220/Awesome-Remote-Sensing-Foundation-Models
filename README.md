@@ -7,12 +7,12 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.09.29 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.10.02 :fire::fire::fire:
 
+- **2024.10.02**: Update PIS.
 - **2024.9.29**: Update EarthMarker.
 - **2024.9.24**: Update CRS-Diff.
 - **2024.9.23**: Update RingMo-Aerial and HSIGene.
-- **2024.9.09**: Update GeoText, UrBench, SenPa-MAE.
 
 
 ## Table of Contents
@@ -87,7 +87,6 @@
 |**SkySense**|**SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery**|CVPR2024|[SkySense](https://arxiv.org/abs/2312.10115)|Targeted open-source|
 |**MTP**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Arxiv2024|[MTP](https://arxiv.org/abs/2403.13430)|[link](https://github.com/ViTAE-Transformer/MTP)|
 |**DOFA**|**Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities**|Arxiv2024|[DOFA](https://arxiv.org/abs/2403.15356)|[link](https://github.com/zhu-xlab/DOFA)|
-|**PIS**|**Pretrain A Remote Sensing Foundation Model by Promoting Intra-instance Similarity**|-|null|[link](https://github.com/ShawnAn-WHU/PIS)|
 |**MMEarth**|**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**|ECCV2024|[MMEarth](https://arxiv.org/abs/2405.02771)|[link](https://vishalned.github.io/mmearth/)|
 |**SARATR-X**|**SARATR-X: A Foundation Model for Synthetic Aperture Radar Images Target Recognition**|Arxiv2024|[SARATR-X](https://arxiv.org/abs/2405.09365)|[link](https://github.com/waterdisappear/SARATR-X)|
 |**LeMeViT**|**LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation**|IJCAI2024|[LeMeViT](https://arxiv.org/abs/2405.09789)|[link](https://github.com/ViTAE-Transformer/LeMeViT/tree/main?tab=readme-ov-file)|
@@ -102,6 +101,7 @@
 |**SpectralEarth**|**SpectralEarth: Training Hyperspectral Foundation Models at Scale**|Arxiv2024|[SpectralEarth](https://arxiv.org/abs/2408.08447)|null|
 |**SenPa-MAE**|**SenPa-MAE: Sensor Parameter Aware Masked Autoencoder for Multi-Satellite Self-Supervised Pretraining**|Arxiv2024|[SenPa-MAE](https://arxiv.org/abs/2408.11000)|[link](https://github.com/JonathanPrexl/SenPa-MAE)|
 |**RingMo-Aerial**|**RingMo-Aerial: An Aerial Remote Sensing Foundation Model With A Affine Transformation Contrastive Learning**|Arxiv2024|[RingMo-Aerial](https://arxiv.org/abs/2409.13366)|null|
+|**PIS**|**Pretrain a Remote Sensing Foundation Model by Promoting Intra-instance Similarity**|TGRS2024|[PIS](https://ieeexplore.ieee.org/abstract/document/10697182)|[link](https://github.com/ShawnAn-WHU/PIS)|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
