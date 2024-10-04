@@ -7,13 +7,12 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.10.02 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.10.04 :fire::fire::fire:
 
+- **2024.10.04**: Update SAR-JEPA.
 - **2024.10.02**: Update PIS.
 - **2024.9.29**: Update EarthMarker.
 - **2024.9.24**: Update CRS-Diff.
-- **2024.9.23**: Update RingMo-Aerial and HSIGene.
-
 
 ## Table of Contents
 - **Models**
@@ -101,6 +100,7 @@
 |**SpectralEarth**|**SpectralEarth: Training Hyperspectral Foundation Models at Scale**|Arxiv2024|[SpectralEarth](https://arxiv.org/abs/2408.08447)|null|
 |**SenPa-MAE**|**SenPa-MAE: Sensor Parameter Aware Masked Autoencoder for Multi-Satellite Self-Supervised Pretraining**|Arxiv2024|[SenPa-MAE](https://arxiv.org/abs/2408.11000)|[link](https://github.com/JonathanPrexl/SenPa-MAE)|
 |**RingMo-Aerial**|**RingMo-Aerial: An Aerial Remote Sensing Foundation Model With A Affine Transformation Contrastive Learning**|Arxiv2024|[RingMo-Aerial](https://arxiv.org/abs/2409.13366)|null|
+|**SAR-JEPA**|**Predicting Gradient is Better: Exploring Self-Supervised Learning for SAR ATR with a Joint-Embedding Predictive Architecture**|ISPRS JPRS2024|[SAR-JEPA](https://www.sciencedirect.com/science/article/pii/S0924271624003514)|[link](https://github.com/waterdisappear/SAR-JEPA)|
 |**PIS**|**Pretrain a Remote Sensing Foundation Model by Promoting Intra-instance Similarity**|TGRS2024|[PIS](https://ieeexplore.ieee.org/abstract/document/10697182)|[link](https://github.com/ShawnAn-WHU/PIS)|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
