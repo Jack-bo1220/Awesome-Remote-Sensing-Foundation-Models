@@ -7,12 +7,12 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.10.04 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.10.15 :fire::fire::fire:
 
+- **2024.10.15**: Update PANGAEA and TEOChat.
 - **2024.10.04**: Update SAR-JEPA.
 - **2024.10.02**: Update PIS.
 - **2024.9.29**: Update EarthMarker.
-- **2024.9.24**: Update CRS-Diff.
 
 ## Table of Contents
 - **Models**
@@ -123,6 +123,7 @@
 |**SkySenseGPT**|**SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding**|Arxiv2024|[Paper](https://arxiv.org/abs/2406.10100)|[link](https://github.com/Luo-Z13/SkySenseGPT)|
 |**EarthMarker**|**EarthMarker: Visual Prompt Learning for Region-level and Point-level Remote Sensing Imagery Comprehension**|Arxiv2024|[Paper](https://arxiv.org/abs/2407.13596)|[link](https://github.com/wivizhang/EarthMarker)|
 |**GeoText**|**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching**|ECCV2024|[Paper](https://arxiv.org/abs/2311.12751)|[link](https://multimodalgeo.github.io/GeoText/)|
+|**TEOChat**|**TEOChat: Large Language and Vision Assistant for Temporal Earth Observation Data**|Arxiv2024|[Paper](https://arxiv.org/abs/2410.06234)|[link](https://github.com/ermongroup/TEOChat)|
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
 
@@ -184,8 +185,9 @@
 |**PhilEO**|**PhilEO Bench: Evaluating Geo-Spatial Foundation Models**|Arxiv2024|[Paper](https://arxiv.org/abs/2401.04464)|[link](https://github.com/91097luke/phileo-bench)|Segmentation & Regression estimation|
 |**SkySense**|**SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery**|CVPR2024|[SkySense](https://arxiv.org/abs/2312.10115)|Targeted open-source|Classification & Segmentation & Detection & Change detection & Multi-Modal Segmentation: Time-insensitive LandCover Mapping & Multi-Modal Segmentation: Time-sensitive Crop Mapping & Multi-Modal Scene Classification|
 |**VLEO-Bench**|**Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data**|Arxiv2024|[VLEO-bench](https://arxiv.org/abs/2401.17600)|[link](https://vleo.danielz.ch/)| Location Recognition & Captioning & Scene Classification & Counting & Detection & Change detection|
-|**VRSBench**|**VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding**|Arxiv2024|[VRSBench](https://arxiv.org/abs/2406.12384)|[link](https://vrsbench.github.io/)|Image Captioning & Object Referring & Visual Question Answering|
+|**VRSBench**|**VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding**|NeurIPS2024|[VRSBench](https://arxiv.org/abs/2406.12384)|[link](https://vrsbench.github.io/)|Image Captioning & Object Referring & Visual Question Answering|
 |**UrBench**|**UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios**|Arxiv2024|[UrBench](https://arxiv.org/abs/2408.17267)|[link](https://opendatalab.github.io/UrBench/)|Object Referring & Visual Question Answering & Counting & Scene Classification & Location Recognition & Geolocalization|
+|**PANGAEA**|**PANGAEA: A Global and Inclusive Benchmark for Geospatial Foundation Models**|-|null|[link](https://github.com/yurujaja/pangaea-bench)|Segmentation & Change detection & Regression|
 
 
 ## (Large-scale) Pre-training Datasets
@@ -226,6 +228,7 @@
 |Title|Link|Brief Introduction|
 |---|:---:|:---:|
 |**RSFMs (Remote Sensing Foundation Models) Playground**|[link](https://github.com/synativ/RSFMs)|An open-source playground to streamline the evaluation and fine-tuning of RSFMs on various datasets.|
+|**PANGAEA**|[link](https://github.com/yurujaja/pangaea-bench)|A Global and Inclusive Benchmark for Geospatial Foundation Models.|
 
 ## Survey Papers
 |Title|Publication|Paper|Attribute|
