@@ -9,7 +9,7 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.10.30 :fire::fire::fire:
 
-- **2024.10.30**: Update a survey.
+- **2024.10.30**: Update two survey papers.
 - **2024.10.15**: Update PANGAEA and TEOChat.
 - **2024.10.04**: Update SAR-JEPA.
 - **2024.10.02**: Update PIS.
@@ -158,6 +158,7 @@
 |Abbreviation|Title|Publication|Paper|Code & Weights|Task|
 |:---:|---|:---:|:---:|:---:|:---:|
 |**SS-MAE**|**SS-MAE: Spatial-Spectral Masked Auto-Encoder for Mulit-Source Remote Sensing Image Classification**|TGRS2023|[Paper](https://ieeexplore.ieee.org/document/10314566/)|[link](https://github.com/summitgao/SS-MAE?tab=readme-ov-file)|Image Classification|
+|**-**|**A Decoupling Paradigm With Prompt Learning for Remote Sensing Image Change Captioning**|TGRS2023|[Paper](https://ieeexplore.ieee.org/document/10271701)|[link](https://github.com/Chen-Yang-Liu/PromptCC)|Remote Sensing Image Change Captioning|
 |**TTP**|**Time Travelling Pixels: Bitemporal Features Integration with Foundation Model for Remote Sensing Image Change Detection**|Arxiv2023|[Paper](https://arxiv.org/abs/2312.16202)|[link](https://github.com/KyanChen/TTP)|Change Detection|
 |**CSMAE**|**Exploring Masked Autoencoders for Sensor-Agnostic Image Retrieval in Remote Sensing**|Arxiv2024|[Paper](https://arxiv.org/abs/2401.07782)|[link](https://github.com/jakhac/CSMAE)|Image Retrieval|
 |**RSPrompter**|**RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model**|TGRS2024|[Paper](https://arxiv.org/abs/2306.16269)|[link](https://github.com/KyanChen/RSPrompter)|Instance Segmentation|
@@ -248,6 +249,7 @@
 |**Towards Vision-Language Geo-Foundation Model: A Survey**|Arxiv2024|[Paper](https://arxiv.org/abs/2406.09385)|**Vision-Language**|
 |**AI Foundation Models in Remote Sensing: A Survey**|Arxiv2024|[Paper](https://arxiv.org/abs/2408.03464)|**Vision**|
 |**Foundation model for generalist remote sensing intelligence: Potentials and prospects**|Science Bulletin2024|[Paper](https://www.sciencedirect.com/science/article/pii/S2095927324006510?via%3Dihub)|**-**|
+|**Advancements in Visual Language Models for Remote Sensing: Datasets, Capabilities, and Enhancement Techniques**|Arxiv2024|[Paper](https://arxiv.org/abs/2410.17283)|**Vision-Language**|
 |**Foundation Models for Remote Sensing and Earth Observation: A Survey**|Arxiv2024|[Paper](https://arxiv.org/abs/2410.16602)|**Vision & Vision-Language**|
 
 ## Citation
