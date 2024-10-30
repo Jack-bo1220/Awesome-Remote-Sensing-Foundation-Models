@@ -9,7 +9,7 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.10.30 :fire::fire::fire:
 
-- **2024.10.30**: Update two survey papers.
+- **2024.10.30**: Update two survey papers, Change-Agent.
 - **2024.10.15**: Update PANGAEA and TEOChat.
 - **2024.10.04**: Update SAR-JEPA.
 - **2024.10.02**: Update PIS.
@@ -175,7 +175,7 @@
 |:---:|---|:---:|:---:|:---:|
 |**GeoLLM-QA**|**Evaluating Tool-Augmented Agents in Remote Sensing Platforms**|ICLR 2024 ML4RS Workshop|[Paper](https://arxiv.org/abs/2405.00709)|null|
 |**RS-Agent**|**RS-Agent: Automating Remote Sensing Tasks through Intelligent Agents**|Arxiv2024|[Paper](https://arxiv.org/abs/2406.07089)|null|
-
+|**Change-Agent**|**Change-Agent: Toward Interactive Comprehensive Remote Sensing Change Interpretation and Analysis**|TGRS2024|[Paper](https://ieeexplore.ieee.org/abstract/document/10591792)|[link](https://github.com/Chen-Yang-Liu/Change-Agent)|
 
 ## Benchmarks for RSFMs
 |Abbreviation|Title|Publication|Paper|Link|Downstream Tasks|
