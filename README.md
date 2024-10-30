@@ -7,12 +7,12 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.10.15 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.10.30 :fire::fire::fire:
 
+- **2024.10.30**: Update a survey.
 - **2024.10.15**: Update PANGAEA and TEOChat.
 - **2024.10.04**: Update SAR-JEPA.
 - **2024.10.02**: Update PIS.
-- **2024.9.29**: Update EarthMarker.
 
 ## Table of Contents
 - **Models**
@@ -248,6 +248,7 @@
 |**Towards Vision-Language Geo-Foundation Model: A Survey**|Arxiv2024|[Paper](https://arxiv.org/abs/2406.09385)|**Vision-Language**|
 |**AI Foundation Models in Remote Sensing: A Survey**|Arxiv2024|[Paper](https://arxiv.org/abs/2408.03464)|**Vision**|
 |**Foundation model for generalist remote sensing intelligence: Potentials and prospects**|Science Bulletin2024|[Paper](https://www.sciencedirect.com/science/article/pii/S2095927324006510?via%3Dihub)|**-**|
+|**Foundation Models for Remote Sensing and Earth Observation: A Survey**|Arxiv2024|[Paper](https://arxiv.org/abs/2410.16602)|**Vision & Vision-Language**|
 
 ## Citation
 
