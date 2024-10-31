@@ -7,12 +7,12 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.10.30 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.10.31 :fire::fire::fire:
 
+- **2024.10.31**: Update CrossEarth and OReole-FM.
 - **2024.10.30**: Update two survey papers, Change-Agent.
 - **2024.10.15**: Update PANGAEA and TEOChat.
 - **2024.10.04**: Update SAR-JEPA.
-- **2024.10.02**: Update PIS.
 
 ## Table of Contents
 - **Models**
@@ -102,6 +102,7 @@
 |**RingMo-Aerial**|**RingMo-Aerial: An Aerial Remote Sensing Foundation Model With A Affine Transformation Contrastive Learning**|Arxiv2024|[RingMo-Aerial](https://arxiv.org/abs/2409.13366)|null|
 |**SAR-JEPA**|**Predicting Gradient is Better: Exploring Self-Supervised Learning for SAR ATR with a Joint-Embedding Predictive Architecture**|ISPRS JPRS2024|[SAR-JEPA](https://www.sciencedirect.com/science/article/pii/S0924271624003514)|[link](https://github.com/waterdisappear/SAR-JEPA)|
 |**PIS**|**Pretrain a Remote Sensing Foundation Model by Promoting Intra-instance Similarity**|TGRS2024|[PIS](https://ieeexplore.ieee.org/abstract/document/10697182)|[link](https://github.com/ShawnAn-WHU/PIS)|
+|**OReole-FM**|**OReole-FM: successes and challenges toward billion-parameter foundation models for high-resolution satellite imagery**|Arxiv2024|[OReole-FM](https://arxiv.org/abs/2410.19965)|null|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
@@ -169,6 +170,7 @@
 |**-**|**Task Specific Pretraining with Noisy Labels for Remote sensing Image Segmentation**|Arxiv2024|[Paper](https://arxiv.org/abs/2402.16164)|null|Image Segmentation (Noisy labels)|
 |**RSBuilding**|**RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.07564)|[link](https://github.com/Meize0729/RSBuilding)|Building Extraction and Change Detection|
 |**SAM-Road**|**Segment Anything Model for Road Network Graph Extraction**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.16051)|[link](https://github.com/htcr/sam_road)|Road Extraction|
+|**CrossEarth**|**CrossEarth: Geospatial Vision Foundation Model for Domain Generalizable Remote Sensing Semantic Segmentation**|Arxiv2024|[Paper](https://arxiv.org/abs/2410.22629)|[link](https://github.com/Cuzyoung/CrossEarth)|Domain Generalizable Remote Sensing Semantic Segmentation|
 
 ## Remote Sensing Agents
 |Abbreviation|Title|Publication|Paper|Code & Weights|
