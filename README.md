@@ -7,12 +7,12 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.10.31 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.11.06 :fire::fire::fire:
 
+- **2024.11.06**: Update MMM-RS.
 - **2024.10.31**: Update CrossEarth and OReole-FM.
 - **2024.10.30**: Update two survey papers, Change-Agent.
 - **2024.10.15**: Update PANGAEA and TEOChat.
-- **2024.10.04**: Update SAR-JEPA.
 
 ## Table of Contents
 - **Models**
@@ -225,6 +225,7 @@
 |**RS-4M**|**Scaling Efficient Masked Autoencoder Learning on Large Remote Sensing Dataset**|Arxiv2024|[RS-4M](https://arxiv.org/abs/2406.11933)|**Vision**|[link](https://github.com/Fengxiang23/SelectiveMAE)|
 |**Major TOM**|**Major TOM: Expandable Datasets for Earth Observation**|Arxiv2024|[Major TOM](https://arxiv.org/abs/2402.12095)|**Vision**|[link](https://huggingface.co/Major-TOM)|
 |**VRSBench**|**VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding**|Arxiv2024|[VRSBench](https://arxiv.org/abs/2406.12384)|**Vision-Language**|[link](https://vrsbench.github.io/)|
+|**MMM-RS**|**MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation**|Arxiv2024|[MMM-RS](https://arxiv.org/abs/2410.22362)|**Vision-Language**|[link](https://github.com/ljl5261/MMM-RS)|
 
 # Relevant Projects
 *（TODO. This section is dedicated to recommending more relevant and impactful projects, with the hope of promoting the development of the RS community. :smile: :rocket:）*
