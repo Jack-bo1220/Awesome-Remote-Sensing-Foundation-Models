@@ -9,10 +9,10 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.11.06 :fire::fire::fire:
 
+- **2024.11.13**: Update DDFAV and PIEViT.
 - **2024.11.06**: Update MMM-RS.
 - **2024.10.31**: Update CrossEarth and OReole-FM.
 - **2024.10.30**: Update two survey papers, Change-Agent.
-- **2024.10.15**: Update PANGAEA and TEOChat.
 
 ## Table of Contents
 - **Models**
@@ -103,6 +103,7 @@
 |**SAR-JEPA**|**Predicting Gradient is Better: Exploring Self-Supervised Learning for SAR ATR with a Joint-Embedding Predictive Architecture**|ISPRS JPRS2024|[SAR-JEPA](https://www.sciencedirect.com/science/article/pii/S0924271624003514)|[link](https://github.com/waterdisappear/SAR-JEPA)|
 |**PIS**|**Pretrain a Remote Sensing Foundation Model by Promoting Intra-instance Similarity**|TGRS2024|[PIS](https://ieeexplore.ieee.org/abstract/document/10697182)|[link](https://github.com/ShawnAn-WHU/PIS)|
 |**OReole-FM**|**OReole-FM: successes and challenges toward billion-parameter foundation models for high-resolution satellite imagery**|SIGSPATIAL2024|[OReole-FM](https://arxiv.org/abs/2410.19965)|null|
+|**PIEViT**|**Pattern Integration and Enhancement Vision Transformer for Self-supervised Learning in Remote Sensing**|Arxiv2024|[PIEViT](https://arxiv.org/pdf/2411.06091)|null|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
@@ -226,6 +227,7 @@
 |**Major TOM**|**Major TOM: Expandable Datasets for Earth Observation**|Arxiv2024|[Major TOM](https://arxiv.org/abs/2402.12095)|**Vision**|[link](https://huggingface.co/Major-TOM)|
 |**VRSBench**|**VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding**|Arxiv2024|[VRSBench](https://arxiv.org/abs/2406.12384)|**Vision-Language**|[link](https://vrsbench.github.io/)|
 |**MMM-RS**|**MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation**|Arxiv2024|[MMM-RS](https://arxiv.org/abs/2410.22362)|**Vision-Language**|[link](https://github.com/ljl5261/MMM-RS)|
+|**DDFAV**|**DDFAV: Remote Sensing Large Vision Language Models Dataset and Evaluation Benchmark**|Arxiv2024|[DDFAV](https://arxiv.org/pdf/2411.02733)|**Vision-Language**|[link](https://github.com/HaodongLi2024/rspope)|
 
 # Relevant Projects
 *（TODO. This section is dedicated to recommending more relevant and impactful projects, with the hope of promoting the development of the RS community. :smile: :rocket:）*
