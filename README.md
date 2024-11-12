@@ -7,7 +7,7 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.11.06 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.11.13 :fire::fire::fire:
 
 - **2024.11.13**: Update DDFAV and PIEViT.
 - **2024.11.06**: Update MMM-RS.
