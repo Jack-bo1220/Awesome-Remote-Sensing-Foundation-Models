@@ -7,12 +7,13 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.11.13 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.11.26 :fire::fire::fire:
 
+- **2024.11.26**: Update Aquila, GeoGround.
+- **2024.11.26**: Update a survey.
 - **2024.11.13**: Update DDFAV and PIEViT.
 - **2024.11.06**: Update MMM-RS.
 - **2024.10.31**: Update CrossEarth and OReole-FM.
-- **2024.10.30**: Update two survey papers, Change-Agent.
 
 ## Table of Contents
 - **Models**
@@ -126,6 +127,7 @@
 |**EarthMarker**|**EarthMarker: Visual Prompt Learning for Region-level and Point-level Remote Sensing Imagery Comprehension**|Arxiv2024|[Paper](https://arxiv.org/abs/2407.13596)|[link](https://github.com/wivizhang/EarthMarker)|
 |**GeoText**|**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching**|ECCV2024|[Paper](https://arxiv.org/abs/2311.12751)|[link](https://multimodalgeo.github.io/GeoText/)|
 |**TEOChat**|**TEOChat: Large Language and Vision Assistant for Temporal Earth Observation Data**|Arxiv2024|[Paper](https://arxiv.org/abs/2410.06234)|[link](https://github.com/ermongroup/TEOChat)|
+|**Aquila**|**Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension**|Arxiv2024|[Paper](https://arxiv.org/pdf/2411.06074)|null|
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
 
@@ -172,6 +174,7 @@
 |**RSBuilding**|**RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.07564)|[link](https://github.com/Meize0729/RSBuilding)|Building Extraction and Change Detection|
 |**SAM-Road**|**Segment Anything Model for Road Network Graph Extraction**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.16051)|[link](https://github.com/htcr/sam_road)|Road Extraction|
 |**CrossEarth**|**CrossEarth: Geospatial Vision Foundation Model for Domain Generalizable Remote Sensing Semantic Segmentation**|Arxiv2024|[Paper](https://arxiv.org/abs/2410.22629)|[link](https://github.com/Cuzyoung/CrossEarth)|Domain Generalizable Remote Sensing Semantic Segmentation|
+|**GeoGround**|**GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding**|Arxiv2024|[Paper](https://arxiv.org/pdf/2411.11904)|[link](https://github.com/zytx121/GeoGround)|Remote Sensing Visual Grounding|
 
 ## Remote Sensing Agents
 |Abbreviation|Title|Publication|Paper|Code & Weights|
