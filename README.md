@@ -9,7 +9,7 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.11.26 :fire::fire::fire:
 
-- **2024.11.26**: Update Aquila, GeoGround.
+- **2024.11.26**: Update Aquila, GeoGround, LHRS-Bot-Nova.
 - **2024.11.13**: Update DDFAV and PIEViT.
 - **2024.11.06**: Update MMM-RS.
 - **2024.10.31**: Update CrossEarth and OReole-FM.
@@ -127,6 +127,7 @@
 |**GeoText**|**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching**|ECCV2024|[Paper](https://arxiv.org/abs/2311.12751)|[link](https://multimodalgeo.github.io/GeoText/)|
 |**TEOChat**|**TEOChat: Large Language and Vision Assistant for Temporal Earth Observation Data**|Arxiv2024|[Paper](https://arxiv.org/abs/2410.06234)|[link](https://github.com/ermongroup/TEOChat)|
 |**Aquila**|**Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension**|Arxiv2024|[Paper](https://arxiv.org/pdf/2411.06074)|null|
+|**LHRS-Bot-Nova**|**LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation**|Arxiv2024|[Paper](https://arxiv.org/pdf/2411.09301)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
 
