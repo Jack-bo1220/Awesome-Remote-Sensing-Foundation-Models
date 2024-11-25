@@ -10,7 +10,6 @@
 :fire::fire::fire: Last Updated on 2024.11.26 :fire::fire::fire:
 
 - **2024.11.26**: Update Aquila, GeoGround.
-- **2024.11.26**: Update a survey.
 - **2024.11.13**: Update DDFAV and PIEViT.
 - **2024.11.06**: Update MMM-RS.
 - **2024.10.31**: Update CrossEarth and OReole-FM.
