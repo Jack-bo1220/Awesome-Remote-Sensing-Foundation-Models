@@ -237,6 +237,7 @@
 |---|:---:|:---:|
 |**RSFMs (Remote Sensing Foundation Models) Playground**|[link](https://github.com/synativ/RSFMs)|An open-source playground to streamline the evaluation and fine-tuning of RSFMs on various datasets.|
 |**PANGAEA**|[link](https://github.com/yurujaja/pangaea-bench)|A Global and Inclusive Benchmark for Geospatial Foundation Models.|
+|**GeoFM**|[link](https://github.com/xiong-zhitong/GeoFM)|Evaluation of Foundation Models for Earth Observation.|
 
 ## Survey Papers
 |Title|Publication|Paper|Attribute|
