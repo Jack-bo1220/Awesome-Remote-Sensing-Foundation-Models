@@ -7,12 +7,12 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.11.27 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.11.28 :fire::fire::fire:
 
+- **2024.11.28**: Update RS-vHeat.
 - **2024.11.27**: Update SatVision-TOA.
 - **2024.11.26**: Update Aquila, GeoGround, LHRS-Bot-Nova.
 - **2024.11.13**: Update DDFAV and PIEViT.
-- **2024.11.06**: Update MMM-RS.
 
 ## Table of Contents
 - **Models**
@@ -105,6 +105,7 @@
 |**OReole-FM**|**OReole-FM: successes and challenges toward billion-parameter foundation models for high-resolution satellite imagery**|SIGSPATIAL2024|[OReole-FM](https://arxiv.org/abs/2410.19965)|null|
 |**PIEViT**|**Pattern Integration and Enhancement Vision Transformer for Self-supervised Learning in Remote Sensing**|Arxiv2024|[PIEViT](https://arxiv.org/pdf/2411.06091)|null|
 |**SatVision-TOA**|**SatVision-TOA: A Geospatial Foundation Model for Coarse-Resolution All-Sky Remote Sensing Imagery**|Arxiv2024|[SatVision-TOA](https://arxiv.org/abs/2411.17000)|[link](https://github.com/nasa-nccs-hpda/pytorch-caney)|
+|**RS-vHeat**|**RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model**|Arxiv2024|[RS-vHeat](https://arxiv.org/abs/2411.17984)|null|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
