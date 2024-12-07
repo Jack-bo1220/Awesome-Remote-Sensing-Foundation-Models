@@ -9,7 +9,7 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.12.07 :fire::fire::fire:
 
-- **2024.12.07**: Update Prithvi-EO-2.0, PANGAEA, GEOBench-VLM.
+- **2024.12.07**: Update Prithvi-EO-2.0, PANGAEA, GEOBench-VLM, RSCLIP.
 - **2024.11.28**: Update RS-vHeat.
 - **2024.11.27**: Update SatVision-TOA.
 - **2024.11.26**: Update Aquila, GeoGround, LHRS-Bot-Nova.
@@ -131,6 +131,7 @@
 |**TEOChat**|**TEOChat: Large Language and Vision Assistant for Temporal Earth Observation Data**|Arxiv2024|[Paper](https://arxiv.org/abs/2410.06234)|[link](https://github.com/ermongroup/TEOChat)|
 |**Aquila**|**Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension**|Arxiv2024|[Paper](https://arxiv.org/pdf/2411.06074)|null|
 |**LHRS-Bot-Nova**|**LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation**|Arxiv2024|[Paper](https://arxiv.org/pdf/2411.09301)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|
+|**RSCLIP**|**Pushing the Limits of Vision-Language Models in Remote Sensing without Human Annotations**|Arxiv2024|[Paper](https://arxiv.org/pdf/2409.07048)|null|
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
 
