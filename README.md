@@ -9,7 +9,7 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.12.07 :fire::fire::fire:
 
-- **2024.12.07**: Update Prithvi-EO-2.0, PANGAEA.
+- **2024.12.07**: Update Prithvi-EO-2.0, PANGAEA, GEOBench-VLM.
 - **2024.11.28**: Update RS-vHeat.
 - **2024.11.27**: Update SatVision-TOA.
 - **2024.11.26**: Update Aquila, GeoGround, LHRS-Bot-Nova.
@@ -198,6 +198,7 @@
 |**VRSBench**|**VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding**|NeurIPS2024|[VRSBench](https://arxiv.org/abs/2406.12384)|[link](https://vrsbench.github.io/)|Image Captioning & Object Referring & Visual Question Answering|
 |**UrBench**|**UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios**|Arxiv2024|[UrBench](https://arxiv.org/abs/2408.17267)|[link](https://opendatalab.github.io/UrBench/)|Object Referring & Visual Question Answering & Counting & Scene Classification & Location Recognition & Geolocalization|
 |**PANGAEA**|**PANGAEA: A Global and Inclusive Benchmark for Geospatial Foundation Models**|Arxiv2024|[PANGAEA](https://arxiv.org/abs/2412.04204)|[link](https://github.com/yurujaja/pangaea-bench)|Segmentation & Change detection & Regression|
+|**GEOBench-VLM**|**GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks**|Arxiv2024|[GEOBench-VLM](https://arxiv.org/pdf/2411.19325)|[link](https://github.com/The-AI-Alliance/GEO-Bench-VLM)|Scene Understanding & Counting & Object Classification & Event Detection & Spatial Relations|
 
 
 ## (Large-scale) Pre-training Datasets
