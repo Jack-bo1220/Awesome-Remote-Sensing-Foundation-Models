@@ -7,11 +7,11 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.12.09 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.12.11 :fire::fire::fire:
 
+- **2024.12.11**: :tada::tada::tada:Our survey paper (in Chinese version) has been published in Acta Geodaetica et Cartographica Sinica. Please check the [link](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2024.20240019.)
 - **2024.12.09**: Update RingMoGPT.
 - **2024.12.07**: Update Prithvi-EO-2.0, PANGAEA, GEOBench-VLM, RSCLIP, COREval.
-- **2024.11.28**: Update RS-vHeat.
 
 ## Table of Contents
 - **Models**
@@ -266,6 +266,7 @@
 |**Foundation model for generalist remote sensing intelligence: Potentials and prospects**|Science Bulletin2024|[Paper](https://www.sciencedirect.com/science/article/pii/S2095927324006510?via%3Dihub)|**-**|
 |**Advancements in Visual Language Models for Remote Sensing: Datasets, Capabilities, and Enhancement Techniques**|Arxiv2024|[Paper](https://arxiv.org/abs/2410.17283)|**Vision-Language**|
 |**Foundation Models for Remote Sensing and Earth Observation: A Survey**|Arxiv2024|[Paper](https://arxiv.org/abs/2410.16602)|**Vision & Vision-Language**|
+|**多模态遥感基础大模型：研究现状与未来展望**|测绘学报2024|[Paper](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2024.20240019.)|**Vision & Vision-Language & Generative & Vision-Location**|
 
 ## Citation
 
