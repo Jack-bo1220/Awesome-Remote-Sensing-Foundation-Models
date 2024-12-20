@@ -7,12 +7,12 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.12.14 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.12.20 :fire::fire::fire:
 
+- **2024.12.20**: Update AnySat and EarthDial.
 - **2024.12.14**: Update RSUniVLM.
 - **2024.12.11**: :tada::tada::tada:Our survey paper (in Chinese version) has been published in Acta Geodaetica et Cartographica Sinica. Please check the [link](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2024.20240019.)
 - **2024.12.09**: Update RingMoGPT.
-- **2024.12.07**: Update Prithvi-EO-2.0, PANGAEA, GEOBench-VLM, RSCLIP, COREval.
 
 ## Table of Contents
 - **Models**
@@ -135,6 +135,7 @@
 |**RSCLIP**|**Pushing the Limits of Vision-Language Models in Remote Sensing without Human Annotations**|Arxiv2024|[Paper](https://arxiv.org/pdf/2409.07048)|null|
 |**RingMoGPT**|**RingMoGPT: A Unified Remote Sensing Foundation Model for Vision, Language, and grounded tasks**|TGRS2024|[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10777289)|null|
 |**RSUniVLM**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Arxiv2024|[Paper](https://arxiv.org/abs/2412.05679)|[link](https://rsunivlm.github.io/)|
+|**EarthDial**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Arxiv2024|[Paper](https://arxiv.org/pdf/2412.15190#page=3.84)|null|
 
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
