@@ -7,12 +7,10 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.12.20 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2025.01.03 :fire::fire::fire:
 
-- **2024.12.20**: Update AnySat and EarthDial.
-- **2024.12.14**: Update RSUniVLM.
+- **2025.01.03**: Update SeaMo, UniRS, and Text2Earth.
 - **2024.12.11**: :tada::tada::tada:Our survey paper (in Chinese version) has been published in Acta Geodaetica et Cartographica Sinica. Please check the [link](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2024.20240019.)
-- **2024.12.09**: Update RingMoGPT.
 
 ## Table of Contents
 - **Models**
@@ -108,6 +106,7 @@
 |**RS-vHeat**|**RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model**|Arxiv2024|[RS-vHeat](https://arxiv.org/abs/2411.17984)|null|
 |**Prithvi-EO-2.0**|**Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications**|Arxiv2024|[Prithvi-EO-2.0](https://arxiv.org/abs/2412.02732)|[link](https://github.com/NASA-IMPACT/Prithvi-EO-2.0)|
 |**AnySat**|**AnySat: An Earth Observation Model for Any Resolutions, Scales, and Modalities**|Arxiv2024|[AnySat](https://arxiv.org/abs/2412.14123)|[link](https://github.com/gastruc/AnySat)|
+|**SeaMo**|**SeaMo: A Multi-Seasonal and Multimodal Remote Sensing Foundation Model**|Arxiv2024|[SeaMo](https://arxiv.org/abs/2412.19237)|null|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
@@ -136,7 +135,7 @@
 |**RingMoGPT**|**RingMoGPT: A Unified Remote Sensing Foundation Model for Vision, Language, and grounded tasks**|TGRS2024|[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10777289)|null|
 |**RSUniVLM**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Arxiv2024|[Paper](https://arxiv.org/abs/2412.05679)|[link](https://rsunivlm.github.io/)|
 |**EarthDial**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Arxiv2024|[Paper](https://arxiv.org/pdf/2412.15190#page=3.84)|null|
-
+|**UniRS**|**UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models**|Arxiv2024|[Paper](https://arxiv.org/abs/2412.20742v1)|null|
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
 
@@ -150,6 +149,7 @@
 |**MetaEarth**|**MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation**|Arxiv2024|[Paper](https://arxiv.org/abs/2405.13570)|[link](https://jiupinjia.github.io/metaearth/)|
 |**CRS-Diff**|**CRS-Diff: Controllable Generative Remote Sensing Foundation Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.11614)|[link](https://github.com/Sonettoo/CRS-Diff?tab=readme-ov-file)|
 |**HSIGene**|**HSIGene: A Foundation Model For Hyperspectral Image Generation**|Arxiv2024|[Paper](https://arxiv.org/abs/2409.12470)|[link](https://github.com/LiPang/HSIGene)|
+|**Text2Earth**|**Text2Earth: Unlocking Text-driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model**|Arxiv2025|[Paper](https://arxiv.org/abs/2501.00895)|[link](https://chen-yang-liu.github.io/Text2Earth/)|
 
 ## Remote Sensing <ins>Vision-Location</ins> Foundation Models
 
