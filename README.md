@@ -7,10 +7,9 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2025.01.03 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2025.02.10 :fire::fire::fire:
 
-- **2025.01.03**: Update SeaMo, UniRS, and Text2Earth.
-- **2024.12.11**: :tada::tada::tada:Our survey paper (in Chinese version) has been published in Acta Geodaetica et Cartographica Sinica. Please check the [link](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2024.20240019.)
+
 
 ## Table of Contents
 - **Models**
@@ -85,7 +84,6 @@
 |**MTP**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Arxiv2024|[MTP](https://arxiv.org/abs/2403.13430)|[link](https://github.com/ViTAE-Transformer/MTP)|
 |**DOFA**|**Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities**|Arxiv2024|[DOFA](https://arxiv.org/abs/2403.15356)|[link](https://github.com/zhu-xlab/DOFA)|
 |**MMEarth**|**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**|ECCV2024|[MMEarth](https://arxiv.org/abs/2405.02771)|[link](https://vishalned.github.io/mmearth/)|
-|**SARATR-X**|**SARATR-X: A Foundation Model for Synthetic Aperture Radar Images Target Recognition**|Arxiv2024|[SARATR-X](https://arxiv.org/abs/2405.09365)|[link](https://github.com/waterdisappear/SARATR-X)|
 |**LeMeViT**|**LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation**|IJCAI2024|[LeMeViT](https://arxiv.org/abs/2405.09789)|[link](https://github.com/ViTAE-Transformer/LeMeViT/tree/main?tab=readme-ov-file)|
 |**SoftCon**|**Multi-Label Guided Soft Contrastive Learning for Efficient Earth Observation Pretraining**|Arxiv2024|[SoftCon](https://arxiv.org/abs/2405.20462)|[link](https://github.com/zhu-xlab/softcon?tab=readme-ov-file)|
 |**RS-DFM**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Arxiv2024|[RS-DFM](https://arxiv.org/abs/2406.07032)|null|
@@ -184,6 +182,7 @@
 |**SAM-Road**|**Segment Anything Model for Road Network Graph Extraction**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.16051)|[link](https://github.com/htcr/sam_road)|Road Extraction|
 |**CrossEarth**|**CrossEarth: Geospatial Vision Foundation Model for Domain Generalizable Remote Sensing Semantic Segmentation**|Arxiv2024|[Paper](https://arxiv.org/abs/2410.22629)|[link](https://github.com/Cuzyoung/CrossEarth)|Domain Generalizable Remote Sensing Semantic Segmentation|
 |**GeoGround**|**GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding**|Arxiv2024|[Paper](https://arxiv.org/pdf/2411.11904)|[link](https://github.com/zytx121/GeoGround)|Remote Sensing Visual Grounding|
+|**SARATR-X**|**SARATR-X: Toward Building a Foundation Model for SAR Target Recognition**|IEEE TIP2025|[SARATR-X](https://ieeexplore.ieee.org/abstract/document/10856784)|[link](https://github.com/waterdisappear/SARATR-X)|SAR Target Recognition|
 
 ## Remote Sensing Agents
 |Abbreviation|Title|Publication|Paper|Code & Weights|
@@ -272,6 +271,8 @@
 |**Advancements in Visual Language Models for Remote Sensing: Datasets, Capabilities, and Enhancement Techniques**|Arxiv2024|[Paper](https://arxiv.org/abs/2410.17283)|**Vision-Language**|
 |**Foundation Models for Remote Sensing and Earth Observation: A Survey**|Arxiv2024|[Paper](https://arxiv.org/abs/2410.16602)|**Vision & Vision-Language**|
 |**多模态遥感基础大模型：研究现状与未来展望**|测绘学报2024|[Paper](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2024.20240019.)|**Vision & Vision-Language & Generative & Vision-Location**|
+|**When Geoscience Meets Foundation Models: Toward a general geoscience artificial intelligence system**|IEEE GRSM2024|[Paper](https://ieeexplore.ieee.org/abstract/document/10770814)|**Vision & Vision-Language**|
+|**Towards the next generation of Geospatial Artificial Intelligence**|JAG2025|[Paper](https://www.sciencedirect.com/science/article/pii/S1569843225000159)|**-**|
 
 ## Citation
 
