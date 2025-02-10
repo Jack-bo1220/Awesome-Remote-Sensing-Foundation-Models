@@ -135,6 +135,7 @@
 |**RSUniVLM**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Arxiv2024|[Paper](https://arxiv.org/abs/2412.05679)|[link](https://rsunivlm.github.io/)|
 |**EarthDial**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Arxiv2024|[Paper](https://arxiv.org/pdf/2412.15190#page=3.84)|null|
 |**UniRS**|**UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models**|Arxiv2024|[Paper](https://arxiv.org/abs/2412.20742v1)|null|
+|**REO-VLM**|**REO-VLM: Transforming VLM to Meet Regression Challenges in Earth Observation**|Arxiv2024|[Paper](https://arxiv.org/abs/2412.16583)|null|
 |**GeoPix**|**GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing**|Arxiv2025|[Paper](https://arxiv.org/abs/2501.06828)|null|
 |**GeoPixel**|**GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing**|Arxiv2025|[Paper](https://arxiv.org/abs/2501.13925)|[link](https://github.com/mbzuai-oryx/GeoPixel)|
 
