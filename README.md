@@ -105,6 +105,7 @@
 |**Prithvi-EO-2.0**|**Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications**|Arxiv2024|[Prithvi-EO-2.0](https://arxiv.org/abs/2412.02732)|[link](https://github.com/NASA-IMPACT/Prithvi-EO-2.0)|
 |**AnySat**|**AnySat: An Earth Observation Model for Any Resolutions, Scales, and Modalities**|Arxiv2024|[AnySat](https://arxiv.org/abs/2412.14123)|[link](https://github.com/gastruc/AnySat)|
 |**SeaMo**|**SeaMo: A Multi-Seasonal and Multimodal Remote Sensing Foundation Model**|Arxiv2024|[SeaMo](https://arxiv.org/abs/2412.19237)|null|
+|**SatMamba**|**SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Arxiv2024|[SatMamba](https://arxiv.org/abs/2502.00435)|[link](https://github.com/mdchuc/HRSFM)|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
@@ -135,6 +136,7 @@
 |**EarthDial**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Arxiv2024|[Paper](https://arxiv.org/pdf/2412.15190#page=3.84)|null|
 |**UniRS**|**UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models**|Arxiv2024|[Paper](https://arxiv.org/abs/2412.20742v1)|null|
 |**GeoPix**|**GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing**|Arxiv2025|[Paper](https://arxiv.org/abs/2501.06828)|null|
+|**GeoPixel**|**GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing**|Arxiv2025|[Paper](https://arxiv.org/abs/2501.13925)|[link](https://github.com/mbzuai-oryx/GeoPixel)|
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
 
