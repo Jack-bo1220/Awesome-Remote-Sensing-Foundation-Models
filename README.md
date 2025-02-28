@@ -9,8 +9,6 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2025.02.28 :fire::fire::fire:
 
-
-
 ## Table of Contents
 - **Models**
   - [Remote Sensing Vision Foundation Models](#remote-sensing-vision-foundation-models)
@@ -194,6 +192,7 @@
 |**GeoLLM-QA**|**Evaluating Tool-Augmented Agents in Remote Sensing Platforms**|ICLR 2024 ML4RS Workshop|[Paper](https://arxiv.org/abs/2405.00709)|null|
 |**RS-Agent**|**RS-Agent: Automating Remote Sensing Tasks through Intelligent Agents**|Arxiv2024|[Paper](https://arxiv.org/abs/2406.07089)|null|
 |**Change-Agent**|**Change-Agent: Toward Interactive Comprehensive Remote Sensing Change Interpretation and Analysis**|TGRS2024|[Paper](https://ieeexplore.ieee.org/abstract/document/10591792)|[link](https://github.com/Chen-Yang-Liu/Change-Agent)|
+|**PEACE**|**PEACE: Empowering Geologic Map Holistic Understanding with MLLMs**|CVPR2025|[Paper](https://arxiv.org/abs/2501.06184)|[link](https://github.com/microsoft/PEACE?tab=readme-ov-file)|
 
 ## Benchmarks for RSFMs
 |Abbreviation|Title|Publication|Paper|Link|Downstream Tasks|
