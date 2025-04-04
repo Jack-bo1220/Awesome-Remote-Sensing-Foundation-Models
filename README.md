@@ -7,7 +7,7 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2025.04.03 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2025.04.04 :fire::fire::fire:
 
 ## Table of Contents
 - **Models**
@@ -112,6 +112,7 @@
 |**Copernicus-FM**|**Towards a Unified Copernicus Foundation Model for Earth Vision**|Arxiv2025|[Copernicus-FM](https://arxiv.org/abs/2503.11849)|[link](https://github.com/zhu-xlab/Copernicus-FM)|
 |**HyperFree**|**HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery**|CVPR2025|[HyperFree](https://rsidea.whu.edu.cn/HyperFree.pdf)|[link](https://github.com/Jingtao-Li-CVer/HyperFree)|
 |**DynamicVis**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Arxiv2025|[DynamicVis](https://arxiv.org/abs/2503.16426)|[link](https://github.com/KyanChen/DynamicVis)|
+|**FlexiMo**|**FlexiMo: A Flexible Remote Sensing Foundation Model**|Arxiv2025|[FlexiMo](https://arxiv.org/abs/2503.23844)|null|
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
@@ -152,6 +153,7 @@
 |**Falcon**|**Falcon: A Remote Sensing Vision-Language Foundation Model**|Arxiv2025|[Paper](https://arxiv.org/abs/2503.11070)|[link](https://github.com/TianHuiLab/Falcon)|
 |**OmniGeo**|**OmniGeo: Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence**|Arxiv2025|[Paper](https://arxiv.org/abs/2503.16326)|null|
 |**XLRS-Bench**|**XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?**|CVPR2025|[Paper](https://arxiv.org/abs/2503.23771)|[link](https://xlrs-bench.github.io/)|
+|**EagleVision**|**EagleVision: Object-level Attribute Multimodal LLM for Remote Sensing**|Arxiv2025|[Paper](https://arxiv.org/abs/2503.23330)|[link](https://github.com/XiangTodayEatsWhat/EagleVision)|
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
 
