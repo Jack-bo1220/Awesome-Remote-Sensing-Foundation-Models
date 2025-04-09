@@ -7,7 +7,7 @@
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2025.04.04 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2025.04.09 :fire::fire::fire:
 
 ## Table of Contents
 - **Models**
@@ -107,12 +107,15 @@
 |**SatMamba**|**SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Arxiv2025|[SatMamba](https://arxiv.org/abs/2502.00435)|[link](https://github.com/mdchuc/HRSFM)|
 |**Galileo**|**Galileo: Learning Global and Local Features in Pretrained Remote Sensing Models**|Arxiv2025|[Galileo](https://arxiv.org/abs/2502.09356)|[link](https://github.com/nasaharvest/galileo)|
 |**SatDiFuser**|**Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models?**|Arxiv2025|[SatDiFuser](https://arxiv.org/abs/2503.07890)|null|
+|**RoMA**|**RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**|Arxiv2025|[RoMA](https://arxiv.org/abs/2503.10392)|[link](https://github.com/MiliLab/RoMA)|
 |**Panopticon**|**Panopticon: Advancing Any-Sensor Foundation Models for Earth Observation**|Arxiv2025|[Panopticon](https://arxiv.org/abs/2503.10845)|[link](https://github.com/Panopticon-FM/panopticon)|
 |**FedSense**|**Towards Privacy-preserved Pre-training of Remote Sensing Foundation Models with Federated Mutual-guidance Learning**|Arxiv2025|[FedSense](https://arxiv.org/abs/2503.11051)|null|
 |**Copernicus-FM**|**Towards a Unified Copernicus Foundation Model for Earth Vision**|Arxiv2025|[Copernicus-FM](https://arxiv.org/abs/2503.11849)|[link](https://github.com/zhu-xlab/Copernicus-FM)|
 |**HyperFree**|**HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery**|CVPR2025|[HyperFree](https://rsidea.whu.edu.cn/HyperFree.pdf)|[link](https://github.com/Jingtao-Li-CVer/HyperFree)|
 |**DynamicVis**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Arxiv2025|[DynamicVis](https://arxiv.org/abs/2503.16426)|[link](https://github.com/KyanChen/DynamicVis)|
 |**FlexiMo**|**FlexiMo: A Flexible Remote Sensing Foundation Model**|Arxiv2025|[FlexiMo](https://arxiv.org/abs/2503.23844)|null|
+|**RingMoE**|**RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation**|Arxiv2025|[RingMoE](https://arxiv.org/abs/2504.03166)|null|
+
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
 
