@@ -61,7 +61,7 @@
 |**Presto**|**Lightweight, Pre-trained Transformers for Remote Sensing Timeseries**|Arxiv2023|[Presto](https://arxiv.org/abs/2304.14065)|[link](https://github.com/nasaharvest/presto)|
 |**CtxMIM**|**CtxMIM: Context-Enhanced Masked Image Modeling for Remote Sensing Image Understanding**|Arxiv2023|[CtxMIM](https://arxiv.org/abs/2310.00022)|null|
 |**FG-MAE**|**Feature Guided Masked Autoencoder for Self-supervised Learning in Remote Sensing**|Arxiv2023|[FG-MAE](https://arxiv.org/abs/2310.18653)|[link](https://github.com/zhu-xlab/FGMAE)|
-|**Prithvi**|**Foundation Models for Generalist Geospatial Artificial Intelligence**|Arxiv2023|[Prithvi](https://arxiv.org/abs/2310.18660)|[link](https://huggingface.co/ibm-nasa-geospatial)|
+|**Prithvi**|**Foundation Models for Generalist Geospatial Artificial Intelligence**|Arxiv2023|[Prithvi](https://arxiv.org/abs/2310.18660)|[link](https://huggingface.co/ibm-nasa-geospatial/Prithvi-EO-1.0-100M)|
 |**RingMo-lite**|**RingMo-lite: A Remote Sensing Multi-task Lightweight Network with CNN-Transformer Hybrid Framework**|Arxiv2023|[RingMo-lite](https://arxiv.org/abs/2309.09003)|null|
 |**-**|**A Self-Supervised Cross-Modal Remote Sensing Foundation Model with Multi-Domain Representation and Cross-Domain Fusion**|IGARSS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10282433)|null|
 |**EarthPT**|**EarthPT: a foundation model for Earth Observation**|NeurIPS2023 CCAI workshop|[EarthPT](https://arxiv.org/abs/2309.07207)|[link](https://github.com/aspiaspace/EarthPT)|
@@ -98,7 +98,7 @@
 |**OReole-FM**|**OReole-FM: successes and challenges toward billion-parameter foundation models for high-resolution satellite imagery**|SIGSPATIAL2024|[OReole-FM](https://arxiv.org/abs/2410.19965)|null|
 |**PIEViT**|**Pattern Integration and Enhancement Vision Transformer for Self-supervised Learning in Remote Sensing**|Arxiv2024|[PIEViT](https://arxiv.org/pdf/2411.06091)|null|
 |**SatVision-TOA**|**SatVision-TOA: A Geospatial Foundation Model for Coarse-Resolution All-Sky Remote Sensing Imagery**|Arxiv2024|[SatVision-TOA](https://arxiv.org/abs/2411.17000)|[link](https://github.com/nasa-nccs-hpda/pytorch-caney)|
-|**Prithvi-EO-2.0**|**Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications**|Arxiv2024|[Prithvi-EO-2.0](https://arxiv.org/abs/2412.02732)|[link](https://github.com/NASA-IMPACT/Prithvi-EO-2.0)|
+|**Prithvi-EO-2.0**|**Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications**|Arxiv2024|[Prithvi-EO-2.0](https://arxiv.org/abs/2412.02732)|[link](https://huggingface.co/ibm-nasa-geospatial/Prithvi-EO-2.0-300M)|
 |**WildSAT**|**WildSAT: Learning Satellite Image Representations from Wildlife Observations**|Arxiv2024|[WildSAT](https://arxiv.org/abs/2412.14428)|[link](https://github.com/mdchuc/HRSFM)|
 |**SeaMo**|**SeaMo: A Multi-Seasonal and Multimodal Remote Sensing Foundation Model**|Information Fusion2025|[SeaMo](https://www.sciencedirect.com/science/article/pii/S1566253525004075)|null|
 |**HyperSIGMA**|**HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model**|IEEE TPAMI2025|[HyperSIGMA](https://arxiv.org/abs/2406.11519)|[link](https://github.com/WHU-Sigma/HyperSIGMA?tab=readme-ov-file)|
@@ -180,7 +180,7 @@
 |**EarthMind**|**EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models**|Arxiv2025|[EarthMind](https://arxiv.org/abs/2506.01667)|[link](https://github.com/shuyansy/EarthMind)|
 |**-**|**Remote Sensing Large Vision-Language Model: Semantic-augmented Multi-level Alignment and Semantic-aware Expert Modeling**|Arxiv2025|[Paper](https://arxiv.org/abs/2506.21863)|null|
 |**RingMo-Agent**|**RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning**|Arxiv2025|[RingMo-Agent](https://arxiv.org/abs/2507.20776)|null|
-
+|**MS-CLIP**|**Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation**|ECML 2025|[Paper](https://arxiv.org/abs/2503.15969)|[link](https://github.com/IBM/MS-CLIP)|
 
 ## Remote Sensing <ins>Generative</ins> Foundation Models
 
@@ -298,6 +298,9 @@
 |**DDFAV**|**DDFAV: Remote Sensing Large Vision Language Models Dataset and Evaluation Benchmark**|Arxiv2024|[DDFAV](https://arxiv.org/pdf/2411.02733)|**Vision-Language**|[link](https://github.com/HaodongLi2024/rspope)|
 |**M3LEO**|**A Multi-Modal, Multi-Label Earth Observation Dataset Integrating Interferometric SAR and Multispectral Data**|NeurIPS2024|[M3LEO](https://proceedings.neurips.cc/paper_files/paper/2024/file/bd194b579f60879e04ca9ce8a4ea5da1-Paper-Datasets_and_Benchmarks_Track.pdf)|**Vision**|[link](https://github.com/spaceml-org/M3LEO)|
 |**Copernicus-Pretrain**|**Towards a Unified Copernicus Foundation Model for Earth Vision**|Arxiv2025|[Copernicus-Pretrain](https://arxiv.org/abs/2503.11849)|**Vision**|[link](https://github.com/zhu-xlab/Copernicus-FM)|
+|**SSL4EO-S12 v1.1**|**SSL4EO-S12 v1.1: A Multimodal, Multiseasonal Dataset for Pretraining, Updated**|Arxiv 2025|[Paper](https://arxiv.org/abs/2503.00168)|**Vision**|[link](https://github.com/DLR-MF-DAS/SSL4EO-S12-v1.1)|
+|**SSL4EO-S12 v1.1 captions**|**Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation**|ECML 2025|[Paper](https://arxiv.org/abs/2503.15969)|**Vision-Language**|[link](https://huggingface.co/datasets/ibm-esa-geospatial/Llama3-SSL4EO-S12-v1.1-captions)|
+|**TerraMesh**|**TerraMesh: A Planetary Mosaic of Multimodal Earth Observation Data**|CVPR EV 2025|[Paper](https://arxiv.org/abs/2504.11172)|**Vision**|[link](https://huggingface.co/datasets/ibm-esa-geospatial/TerraMesh)|
 
 # Relevant Projects
 *（TODO. This section is dedicated to recommending more relevant and impactful projects, with the hope of promoting the development of the RS community. :smile: :rocket:）*
