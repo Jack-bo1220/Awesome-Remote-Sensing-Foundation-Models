@@ -117,7 +117,7 @@
 |**RingMoE**|**RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation**|Arxiv2025|[RingMoE](https://arxiv.org/abs/2504.03166)|null|
 |**-**|**A Complex-valued SAR Foundation Model Based on Physically Inspired Representation Learning**|Arxiv2025|[Paper](https://arxiv.org/abs/2504.11999)|null|
 |**TerraFM**|**TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**|Arxiv2025|[TerraFM](https://arxiv.org/abs/2506.06281)|[link](https://github.com/mbzuai-oryx/TerraFM)|
-|**TESSERA**|**TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis**|Arxiv2025|[TESSERA](https://arxiv.org/abs/2506.20380)|null|
+|**TESSERA**|**TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis**|Arxiv2025|[TESSERA](https://arxiv.org/abs/2506.20380)|[link](https://github.com/ucam-eo/tessera)|
 |**MoSAiC**|**MoSAiC: Multi-Modal Multi-Label Supervision-Aware Contrastive Learning for Remote Sensing**|Arxiv2025|[MoSAiC](https://arxiv.org/abs/2507.08683)|null|
 |**CGEarthEye**|**CGEarthEye:A High-Resolution Remote Sensing Vision Foundation Model Based on the Jilin-1 Satellite Constellation**|Arxiv2025|[CGEarthEye](https://arxiv.org/abs/2507.00356)|null|
 |**MAPEX**|**MAPEX: Modality-Aware Pruning of Experts for Remote Sensing Foundation Models**|Arxiv2025|[MAPEX](https://arxiv.org/abs/2507.07527)|[link](https://github.com/HSG-AIML/MAPEX)|
