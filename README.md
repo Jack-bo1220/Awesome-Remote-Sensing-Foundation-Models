@@ -130,6 +130,7 @@
 |**SkySense V2**|**SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing**|ICCV2025|[SkySense V2](https://arxiv.org/abs/2507.13812)|null|
 |**AlphaEarth**|**AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data**|Arxiv2025|[AlphaEarth](https://arxiv.org/abs/2507.22291)|null|
 |**SkySense++**|**A semantic-enhanced multi-modal remote sensing foundation model for Earth observation**|Nature Machine Intelligence 2025|[SkySense++](https://www.nature.com/articles/s42256-025-01078-8)|[link](https://github.com/kang-wu/SkySensePlusPlus?tab=readme-ov-file)|
+|**CSMoE**|**CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts**|Arxiv2025|[CSMoE](https://arxiv.org/abs/2509.14104)|null|
 
 
 ## Remote Sensing <ins>Vision-Language</ins> Foundation Models
@@ -220,7 +221,7 @@
 |**SS-MAE**|**SS-MAE: Spatial-Spectral Masked Auto-Encoder for Mulit-Source Remote Sensing Image Classification**|TGRS2023|[Paper](https://ieeexplore.ieee.org/document/10314566/)|[link](https://github.com/summitgao/SS-MAE?tab=readme-ov-file)|Image Classification|
 |**-**|**A Decoupling Paradigm With Prompt Learning for Remote Sensing Image Change Captioning**|TGRS2023|[Paper](https://ieeexplore.ieee.org/document/10271701)|[link](https://github.com/Chen-Yang-Liu/PromptCC)|Remote Sensing Image Change Captioning|
 |**TTP**|**Time Travelling Pixels: Bitemporal Features Integration with Foundation Model for Remote Sensing Image Change Detection**|Arxiv2023|[Paper](https://arxiv.org/abs/2312.16202)|[link](https://github.com/KyanChen/TTP)|Change Detection|
-|**CSMAE**|**Exploring Masked Autoencoders for Sensor-Agnostic Image Retrieval in Remote Sensing**|Arxiv2024|[Paper](https://arxiv.org/abs/2401.07782)|[link](https://github.com/jakhac/CSMAE)|Image Retrieval|
+|**CSMAE**|**Exploring Masked Autoencoders for Sensor-Agnostic Image Retrieval in Remote Sensing**|TGRS2024|[Paper](https://arxiv.org/abs/2401.07782)|[link](https://github.com/jakhac/CSMAE)|Image Retrieval|
 |**RSPrompter**|**RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model**|TGRS2024|[Paper](https://arxiv.org/abs/2306.16269)|[link](https://github.com/KyanChen/RSPrompter)|Instance Segmentation|
 |**BAN**|**A New Learning Paradigm for Foundation Model-based Remote Sensing Change Detection**|TGRS2024|[Paper](https://arxiv.org/abs/2312.01163)|[link](https://github.com/likyoo/BAN)|Change Detection|
 |**-**|**Change Detection Between Optical Remote Sensing Imagery and Map Data via Segment Anything Model (SAM)**|Arxiv2024|[Paper](https://arxiv.org/abs/2401.09019)|null|Change Detection (Optical & OSM data)|
