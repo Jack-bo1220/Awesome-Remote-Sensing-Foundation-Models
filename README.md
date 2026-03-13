@@ -9,8 +9,6 @@
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2026.03.13 :fire::fire::fire:
 
-- **2025.08.04**: Our recent work, [SkySense++](https://www.nature.com/articles/s42256-025-01078-8), a follow-up to our [SkySense](https://github.com/Jack-bo1220/SkySense) model, is accepted by Nature Machine Intelligence. We have released the code and pretrained weights at [this repository](https://github.com/kang-wu/SkySensePlusPlus).
-
 ## Table of Contents
 - **Models**
   - [Remote Sensing Vision Foundation Models](#remote-sensing-vision-foundation-models)
@@ -359,17 +357,7 @@
 |**RSFMs (Remote Sensing Foundation Models) Playground**|[link](https://github.com/synativ/RSFMs)|An open-source playground to streamline the evaluation and fine-tuning of RSFMs on various datasets.|
 |**PANGAEA**|[link](https://github.com/yurujaja/pangaea-bench)|A Global and Inclusive Benchmark for Geospatial Foundation Models.|
 |**GeoFM**|[link](https://github.com/xiong-zhitong/GeoFM)|Evaluation of Foundation Models for Earth Observation.|
-|**EOUncertaintyGeneralization**|[link](https://github.com/Orion-AI-Lab/EOUncertaintyGeneralization)|On the Generalization of Representation Uncertainty in Earth Observation.|
-|**MAESTRO**|[link](https://github.com/IGNF/MAESTRO)|Official repository of MAESTRO for multimodal, multitemporal, and multispectral Earth observation pretraining.|
-|**AgriFM**|[link](https://github.com/flyakon/AgriFM)|Official repository of AgriFM for agricultural mapping with multi-source temporal remote sensing data.|
-|**DGTRS**|[link](https://github.com/MitsuiChen14/DGTRS)|Official repository of DGTRSD and DGTRS-CLIP for dual-granularity remote sensing image-text alignment.|
-|**FUSE-RSVLM**|[link](https://github.com/Yunkaidang/RSVLM)|Official repository for FUSE-RSVLM, a feature-fusion remote sensing vision-language model.|
-|**RSCoVLM**|[link](https://github.com/VisionXLab/RSCoVLM)|Official repository for RSCoVLM, a co-training remote sensing vision-language model for multi-task learning.|
-|**GeoReason**|[link](https://github.com/canlanqianyan/GeoReason)|Official repository for GeoReason and the GeoReason-Bench reasoning benchmark.|
-|**REOBench**|[link](https://github.com/lx709/REOBench)|Official repository of REOBench for robustness evaluation of Earth observation foundation models.|
-|**OpenEarthAgent**|[link](https://github.com/mbzuai-oryx/OpenEarthAgent)|Official repository for OpenEarthAgent and its large-scale tool-augmented geospatial agent dataset.|
-|**GeoEyes**|[link](https://github.com/nanocm/GeoEyes)|Official repository for GeoEyes and the UHR-CoZ ultra-high-resolution zoom-and-reason benchmark.|
-|**Earth-Agent**|[link](https://github.com/opendatalab/Earth-Agent)|Official repository for Earth-Agent and the associated Earth-Bench benchmark.|
+|**rs-embed**|[link](https://github.com/cybergis/rs-embed)|One line code to get Any Remote Sensing Foundation Model (RSFM) embeddings for Any Place and Any Time.|
 
 ## Survey/Commentary Papers
 |Title|Publication|Paper|Attribute|
