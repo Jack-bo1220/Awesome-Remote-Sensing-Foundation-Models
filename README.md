@@ -350,8 +350,7 @@
 |**AlphaEarth**|**AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data**|Arxiv2025|[Paper](https://arxiv.org/abs/2507.22291)|null|[link](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL)|
 |**ESD**|**Democratizing planetary-scale analysis: An ultra-lightweight Earth embedding database for accurate and flexible global land monitoring**|Arxiv2026|[Paper](https://arxiv.org/abs/2601.11183)|[link](https://github.com/shuangchencc/ESD)|[link](https://data-starcloud.pcl.ac.cn/iearthdata/64)|
 
-# Relevant Projects
-*（TODO. This section is dedicated to recommending more relevant and impactful projects, with the hope of promoting the development of the RS community. :smile: :rocket:）*
+## Relevant Projects
 |Title|Link|Brief Introduction|
 |---|:---:|:---:|
 |**RSFMs (Remote Sensing Foundation Models) Playground**|[link](https://github.com/synativ/RSFMs)|An open-source playground to streamline the evaluation and fine-tuning of RSFMs on various datasets.|
