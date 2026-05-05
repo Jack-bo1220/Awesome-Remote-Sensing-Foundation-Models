@@ -116,7 +116,7 @@
 |**AnySat**|**AnySat: One Earth Observation Model for Many Resolutions, Scales, and Modalities**|CVPR2025|[AnySat](https://arxiv.org/abs/2412.14123)|[link](https://github.com/gastruc/AnySat)|
 |**HyperSL**|**HyperSL: A Spectral Foundation Model for Hyperspectral Image Interpretation**|IEEE TGRS2025|[HyperSL](https://ieeexplore.ieee.org/abstract/document/10981753)|[link](https://github.com/kkweil/HyperSL)|
 |**DynamicVis**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Arxiv2025|[DynamicVis](https://arxiv.org/abs/2503.16426)|[link](https://github.com/KyanChen/DynamicVis)|
-|**DeepAndes**|**DeepAndes: A Self-Supervised Vision Foundation Model for Multispectral Remote Sensing Imagery of the Andes**|IEEE JSTARS2025|[DeepAndes](https://doi.org/10.1109/jstars.2025.3619423)|null|
+|**DeepAndes**|**DeepAndes: A Self-Supervised Vision Foundation Model for Multispectral Remote Sensing Imagery of the Andes**|IEEE JSTARS2025|[DeepAndes](https://doi.org/10.1109/jstars.2025.3619423)|[link](https://github.com/geopacha/DeepAndes)|
 |**TiMo**|**TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series**|Arxiv2025|[TiMo](https://arxiv.org/abs/2505.08723)|[link](https://github.com/MiliLab/TiMo)|
 |**TerraFM**|**TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**|Arxiv2025|[TerraFM](https://arxiv.org/abs/2506.06281)|[link](https://github.com/mbzuai-oryx/TerraFM)|
 |**TESSERA**|**TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis**|Arxiv2025|[TESSERA](https://arxiv.org/abs/2506.20380)|[link](https://github.com/ucam-eo/tessera)|
