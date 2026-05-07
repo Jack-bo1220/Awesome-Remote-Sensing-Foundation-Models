@@ -6,7 +6,7 @@
 
 :star2:**A collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs).**
 
-## �� Latest Updates
+## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2026.05.06 :fire::fire::fire:
 
 ## Table of Contents
