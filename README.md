@@ -143,7 +143,7 @@
 |**AgriFM**|**AgriFM: A multi-source temporal remote sensing foundation model for Agriculture mapping**|RSE2026|[Paper](https://doi.org/10.1016/j.rse.2026.115234)|[link](https://github.com/flyakon/AgriFM)|
 |**SIGMAE**|**SIGMAE: A Spectral-Index-Guided Foundation Model for Multispectral Remote Sensing**|Arxiv2026|[SIGMAE](https://arxiv.org/abs/2603.07463)|[link](https://github.com/zxk688/SIGMAE)|
 |**CrossEarth-SAR**|**CrossEarth-SAR: A SAR-Centric and Billion-Scale Geospatial Foundation Model for Domain Generalizable Semantic Segmentation**|Arxiv2026|[CrossEarth-SAR](https://arxiv.org/abs/2603.12008)|[link](https://github.com/VisionXLab/CrossEarth-SAR)|
-|**NeighborMAE**|**NeighborMAE: Exploiting Spatial Dependencies between Neighboring Earth Observation Images in Masked Autoencoders Pretraining**|CVPR2026|[NeighborMAE](https://arxiv.org/abs/2603.02522)|null|
+|**NeighborMAE**|**NeighborMAE: Exploiting Spatial Dependencies between Neighboring Earth Observation Images in Masked Autoencoders Pretraining**|CVPR2026|[NeighborMAE](https://arxiv.org/abs/2603.02522)|[link](https://github.com/LeungTsang/NeighborMAE)|
 |**MOMO**|**MOMO: Mars Orbital Model Foundation Model for Mars Orbital Applications**|CVPR2026|[MOMO](https://arxiv.org/abs/2604.02719)|[link](https://github.com/kerner-lab/MOMO)|
 |**TESSERA**|**TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis**|CVPR2026|[TESSERA](https://arxiv.org/abs/2506.20380)|[link](https://github.com/ucam-eo/tessera)|
 |**OlmoEarth**|**OlmoEarth: Stable Latent Image Modeling for Multimodal Earth Observation**|CVPR2026|[OlmoEarth](https://arxiv.org/abs/2511.13655)|[link](https://github.com/allenai/olmoearth_pretrain)|
